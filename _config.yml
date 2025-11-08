@@ -13,7 +13,7 @@ title                    : "Daniel Lopez-Martinez"
 title_separator          : "-"
 name                     : &name "Daniel Lopez-Martinez"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://daniel-lopezmartinez.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -30,7 +30,7 @@ author:
   location         : "Bay Area, California"
   employer         : "Amazon"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0abBQg8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8642-2970"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Lopez-Martinez+D&cauthor_id=31946739"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "daniel-lopezmartinez"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,14 +56,14 @@ author:
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : # Username
+  flickr           : "dlmocdm"
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "dlmocdm"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "daniel-lopezmartinez/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
