@@ -7,8 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from Imperial College London with First Class Honors and the Medal for Excellence of the Faculty of Engineering in 2013. I then participated in the Bioscience Enterprise Programme at the University of Cambridge. Following this, I obtained my PhD in Medical Engineering and Medical Physics from the Massachusetts Institute of Technology. After graduating, I joined Google Health as a Software Engineer, where I worked on NLP for EHR data.
+
+I am interested in building intelligent systems at the intersection of artificial intelligence and human–computer interaction. My work focuses on developing large language models, agentic AI, and computer vision systems for a variety of applications.
+
+I graduated from Imperial College London with First Class Honours and received the Medal for Excellence of the Faculty of Engineering in 2013. During my undergraduate studies, I conducted research at Oxford, Cambridge, MIT, Harvard, and Cancer Research UK, focusing on AI and machine learning applied to biomedicine. I subsequently participated in the Bioscience Enterprise Programme at the University of Cambridge and earned my PhD in Medical Engineering and Medical Physics from the Massachusetts Institute of Technology (Harvard–MIT Program in Health Sciences and Technology).
+
+After my doctorate, I joined Google Health as a Software Engineer, where I worked on natural language processing for electronic health records (EHRs). I later joined Tempus, focusing on computer vision for pathology. I am now an Applied Scientist at Amazon, where I work on large language models, computer-use models, and agentic AI systems.
 
 ## News
-- I gave an invited talk on medical LLM trustworthiness at the Amazon Machine Learning Conference (AMLC), 2025.
+- I gave an invited talk on _Medical LLM Trustworthiness_ at the Amazon Machine Learning Conference (AMLC), 2025.
+- Amazon's [Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands), my first agentic AI system at Amazon, has been released to US customers.
 
