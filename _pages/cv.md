@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* Ph.D. in Medical Engineering and Medical Physics, Massachusetts Institute of Technology (Harvard–MIT Program in Health Sciences and Technology), 2014–2019
+* Graduate Certificate in Healthcare Management, MIT Sloan School of Management, 2018 
+* M.Phil. in Bioscience Enterprise, University of Cambridge, 2013-2014 (intermission)
+* M.Eng. in Biomedical Engineering, Imperial College London, 2013 (First Class Honours, Medal for Excellence of the Faculty of Engineering)
+
 
 Work experience
 ======
