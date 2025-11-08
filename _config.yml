@@ -30,7 +30,7 @@ author:
   location         : "Bay Area, California"
   employer         : "Amazon"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0abBQg8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8642-2970"
+  orcid            : # "https://orcid.org/0000-0002-8642-2970"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Lopez-Martinez+D&cauthor_id=31946739"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Lopez-Martinez+D&cauthor_id=31946739"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : "dlmocdm"
   foursquare       : # Username
