@@ -30,7 +30,7 @@ author:
   location         : "Bay Area, California"
   employer         : "Amazon"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
