@@ -23,7 +23,7 @@ repository               : "daniel-lopezmartinez/daniel-lopezmartinez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-kilimanjaro.jpeg"
   name             : "Daniel Lopez-Martinez"
   pronouns         : # example: "he/him"  
   bio              : "Applied Scientist, Amazon"
