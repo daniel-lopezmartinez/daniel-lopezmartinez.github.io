@@ -26,7 +26,9 @@ author:
   avatar           : "profile-kilimanjaro.jpeg"
   name             : "Daniel Lopez-Martinez"
   pronouns         : # example: "he/him"  
-  bio              : "Applied Scientist, Amazon"
+  bio              : "Applied Scientist, Amazon
+                      ex-Google, ex-Tempus
+                      PhD from Harvard/MIT"
   location         : "Bay Area, California"
   employer         : "Amazon"
   uri              : # URL
