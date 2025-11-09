@@ -18,31 +18,61 @@ Education
 * M.Eng. in Biomedical Engineering, Imperial College London, 2013 (First Class Honours, Medal for Excellence of the Faculty of Engineering)
 
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024–Present: Applied Scientist, Amazon
+  * Working on large language models, computer-use models, and agentic AI systems within Amazon Health AI and One Medical.
+  * Leading research and prototyping for conversational and multimodal AI systems.
+  * Collaborating cross-functionally with scientists and engineers to deploy LLM-based healthcare applications.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2024: Senior Machine Learning Scientist, Tempus
+  * Developed deep learning and computer vision models for digital pathology and precision oncology.
+  * Led model evaluation and integration into production pipelines.
+  * Collaborated with clinical partners to validate AI-driven diagnostic workflows.
+
+* 2019–2024: Software Engineer, Google Health
+  * Worked on natural language processing for electronic health records (EHRs).
+  * Built scalable data pipelines and machine learning models for medical information extraction.
+  * Collaborated with clinical and research teams on healthcare AI initiatives.
+
+* 2014–2019: Graduate Research Assistant, MIT
+  * Graduate student in the Harvard–MIT Program in Health Sciences and Technology.
+  * Conducted research in medical AI, signal processing, and computer vision.
+  * Supervised undergraduate students and collaborated across engineering and clinical labs.
+  * Published peer-reviewed papers on machine learning, computational medical imaging and biomedical signal analysis.
+
+
+Awards and Honors
+======
+Need to add.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence and Machine Learning  
+  * Large Language Models (LLMs)  
+  * Agentic and Multi-Agent AI Systems  
+  * Model Evaluation, Safety, and Trustworthiness  
+
+* Natural Language Processing  
+  * Clinical Text Mining and EHR Data Extraction  
+  * Prompt Engineering and Instruction Tuning  
+  * Conversational AI and Dialogue Systems  
+
+* Computer Vision  
+  * Digital Pathology and Medical Imaging  
+  * Deep Learning for Image Classification and Segmentation  
+  * Multimodal Model Integration  
+
+* Software Engineering and Research Infrastructure  
+  * Python, PyTorch, TensorFlow, AWS, and Git  
+  * Data Pipelines and Model Deployment  
+  * Experiment Tracking and Evaluation Frameworks  
+
+* Leadership and Communication  
+  * Cross-Functional Collaboration between Science and Engineering Teams  
+  * Technical Writing, Publications, and Presentations  
+  * Mentorship and Team Guidance
 
 Publications
 ======
