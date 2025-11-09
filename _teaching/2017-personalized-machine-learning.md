@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-personalized-machine-learning
 venue: "MIT Media Lab, Massachusetts Institute of Technology"
-date: 2017
+date: 2017-02-09
 location: "Boston, MA"
 ---
 
