@@ -8,4 +8,4 @@ date: 2024-09-24
 location: "Sunnyvale, CA, USA (virtual session)"
 ---
 
-I delivered an invited talk for the Amazon NAS GenAI Learning Series, presenting a deep dive into the design, architecture, evaluation, and deployment of large-scale agentic systems across Amazon. The talk bridged my work across _Shopping Conversations Foundations_ and _Amazon Health AI / One Medical_, highlighting the development of agentic LLM systems from consumer shopping experiences (secifically [BuyForMe](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands)) to clinical and healthcare workflows.
+I delivered an invited talk for the Amazon NAS GenAI Learning Series, presenting a deep dive into the design, architecture, evaluation, and deployment of large-scale agentic systems across Amazon. The talk bridged my work across _Shopping Conversations Foundations_ and _Amazon Health AI / One Medical_, highlighting the development of agentic LLM systems from consumer shopping experiences (specifically [BuyForMe](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands)) to clinical and healthcare workflows.
