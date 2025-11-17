@@ -16,7 +16,7 @@ After my doctorate, I joined Google Health as a Software Engineer, where I worke
 
 ## News
 - I gave an invited talk on [_Medical LLM Trustworthiness_](https://daniellopezmartinez.com/talks/2025-11-04-talk-amlc) at the Amazon Machine Learning Conference (AMLC), 2025.
-- I delivered an invited talk on agentic system development (covering computer-use agents, shopping agents, and health AI systems) as part of Amazon’s North America Stores GenAI Learning Series, 2025.
+- I delivered an invited talk on [agentic system development](https://daniellopezmartinez.com/talks/2025-09-25-amazon-nas-genai-series) (covering computer-use agents, shopping agents, and health AI systems) as part of Amazon’s North America Stores GenAI Learning Series, 2025.
 - Amazon's [Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands), my first agentic AI system at Amazon, has been released to US customers.
 - I presented our work on [evaluating medical safety in LLMs](https://daniellopezmartinez.com/talks/2024-12-16-ml4h) at the Machine Learning for Health Symposium (ML4H), 2024.
 - I presented a poster on [_medical product question answering_](https://daniellopezmartinez.com/talks/2024-08-26-kdd) at the KDD GenAI Evaluation Workshop, 2024.
