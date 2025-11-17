@@ -12,7 +12,7 @@ I am interested in building intelligent systems at the intersection of artificia
 
 I graduated from Imperial College London with First Class Honours and received the Medal for Excellence of the Faculty of Engineering in 2013. During my undergraduate studies, I conducted research at Oxford, Cambridge, MIT, Harvard, and Cancer Research UK, focusing on AI and machine learning applied to biomedicine. I subsequently participated in the Bioscience Enterprise Programme at the University of Cambridge and earned my PhD in Medical Engineering and Medical Physics from the Massachusetts Institute of Technology (Harvard–MIT Program in Health Sciences and Technology).
 
-After my doctorate, I joined Google Health as a Software Engineer, where I worked on natural language processing for electronic health records (EHRs). I later joined Tempus, focusing on computer vision for pathology. I am now an Applied Scientist at Amazon, where I work on large language models, computer-use models, and agentic AI systems.
+After my doctorate, I joined Google Health as a Software Engineer, where I worked on natural language processing for electronic health records (EHRs). I later joined Tempus, focusing on computer vision for pathology. I am now a Senior Applied Scientist at Amazon, where I work on large language models, computer-use models, and agentic AI systems.
 
 ## News
 - I gave an invited talk on [_Medical LLM Trustworthiness_](https://daniellopezmartinez.com/talks/2025-11-04-talk-amlc) at the Amazon Machine Learning Conference (AMLC), 2025.
