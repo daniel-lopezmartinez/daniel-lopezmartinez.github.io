@@ -2,9 +2,9 @@
 title: "Pioneering Agentic Systems: From Shopping to Health"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-09-24-nas-genai-series/
+permalink: /talks/2025-09-24-nas-genai-series/
 venue: "Amazon NAS GenAI Learning Series"
-date: 2024-09-24
+date: 2025-09-24
 location: "Sunnyvale, CA, USA (virtual session)"
 ---
 
