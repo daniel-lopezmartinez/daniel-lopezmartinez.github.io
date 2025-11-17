@@ -1,6 +1,6 @@
 ---
 title: "Buy For Me — Agentic Shopping System"
-excerpt: "A browser-based agentic system that helps customers complete purchases across third-party websites using multimodal perception, reasoning, and tool-enabled actions."
+excerpt: "A browser-based agentic system that helps customers complete purchases across third-party websites using multimodal perception, reasoning, and tool-enabled actions.<br/><img src='/images/blog/buyforme.jpg'>"
 collection: portfolio
 ---
 
