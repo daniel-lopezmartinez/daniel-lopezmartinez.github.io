@@ -15,7 +15,7 @@ I graduated from Imperial College London with First Class Honours and received t
 After my doctorate, I joined Google Health as a Software Engineer, where I worked on natural language processing for electronic health records (EHRs). I later joined Tempus, focusing on computer vision for pathology. I am now an Applied Scientist at Amazon, where I work on large language models, computer-use models, and agentic AI systems.
 
 ## News
-- I gave an invited talk on _Medical LLM Trustworthiness_ at the Amazon Machine Learning Conference (AMLC), 2025.
+- I gave an invited talk on [_Medical LLM Trustworthiness_](https://daniellopezmartinez.com/talks/2025-11-04-talk-amlc) at the Amazon Machine Learning Conference (AMLC), 2025.
 - I delivered an invited talk on agentic system development (covering computer-use agents, shopping agents, and health AI systems) as part of Amazon’s North America Stores GenAI Learning Series, 2025.
 - Amazon's [Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands), my first agentic AI system at Amazon, has been released to US customers.
 
