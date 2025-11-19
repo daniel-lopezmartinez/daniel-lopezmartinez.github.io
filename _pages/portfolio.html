@@ -9,6 +9,9 @@ author_profile: true
 
 <h2>Amazon</h2>
 {% for post in site.portfolio %}
+  {% if post.category != 'amazon'] %}
+    {% continue %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -17,3 +20,9 @@ author_profile: true
 <h2>Google</h2>
 
 <h2>MIT</h2>
+{% for post in site.portfolio %}
+  {% if post.category != 'mit'] %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
