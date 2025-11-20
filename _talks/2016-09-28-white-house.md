@@ -14,3 +14,8 @@ Lyme disease patients frequently report fluctuating, nonspecific symptoms and un
 
 At the Summit, we discussed how open data ecosystems and patient-generated health data could improve understanding of chronic illnesses like Lyme disease, and how mobile tools can reduce the documentation burden on patients who often experience fatigue and cognitive impairment. The presentation was part of a broader national conversation about using open data, AI, and user-centered design to advance health, wellness, and patient empowerment.
 
+<img src='/images/blog/2016-09-28-white-house-open-data-summit-venue.jpgg' width="700" height="400">
+
+<img src='/images/blog/2016-09-28-white-house-open-data-summit.jpg' width="700" height="400">
+
+<img src='/images/blog/2016-09-28-white-house-open-data-summit-team.jpg' width="700" height="400">
