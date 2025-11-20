@@ -21,17 +21,17 @@ Education
 Work Experience
 ======
 
-* 2024–Present: Senior Applied Scientist, Amazon
+* 2023–Present: Senior Applied Scientist, Amazon
   * Working on large language models, computer-use models, and agentic AI systems within Amazon Health AI and One Medical.
   * Leading research and prototyping for conversational and multimodal AI systems.
   * Collaborating cross-functionally with scientists and engineers to deploy LLM-based healthcare applications.
 
-* 2024: Senior Machine Learning Scientist, Tempus
+* 2023: Senior Machine Learning Scientist, Tempus
   * Developed deep learning and computer vision models for digital pathology and precision oncology.
   * Led model evaluation and integration into production pipelines.
   * Collaborated with clinical partners to validate AI-driven diagnostic workflows.
 
-* 2019–2024: Software Engineer, Google Health
+* 2019–2023: Software Engineer, Google Health
   * Worked on natural language processing for electronic health records (EHRs).
   * Built scalable data pipelines and machine learning models for medical information extraction.
   * Collaborated with clinical and research teams on healthcare AI initiatives.
