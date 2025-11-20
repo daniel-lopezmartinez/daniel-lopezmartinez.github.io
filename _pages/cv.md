@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 
-* 2024–Present: Applied Scientist, Amazon
+* 2024–Present: Senior Applied Scientist, Amazon
   * Working on large language models, computer-use models, and agentic AI systems within Amazon Health AI and One Medical.
   * Leading research and prototyping for conversational and multimodal AI systems.
   * Collaborating cross-functionally with scientists and engineers to deploy LLM-based healthcare applications.
