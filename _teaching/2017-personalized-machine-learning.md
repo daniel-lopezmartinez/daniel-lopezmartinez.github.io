@@ -6,7 +6,7 @@ permalink: /teaching/2017-personalized-machine-learning
 venue: "MIT Media Lab, Massachusetts Institute of Technology"
 date: 2017-02-09
 location: "Boston, MA"
-excerpt: "This graduate course explores how machine learning models can be adapted to individuals rather than populations, with a particular focus on health and human data. The class covers modern techniques for personalization, including active learning, domain adaptation and deep models, and guides students in developing their own personalized ML applications."
+excerpt: "This graduate course explores how machine learning models can be adapted to individuals rather than populations, with a particular focus on health and human data. The class covers modern techniques for personalization, including active learning, domain adaptation and deep models, and guides students in developing their own personalized ML applications.<br/><img src='/images/blog/2012-09-25-mit-media-lab.jpg' width='300'>"
 ---
 
 **Link:** [MAS.S61 Personalized Machine Learning](https://sites.google.com/view/classmass61/home)
