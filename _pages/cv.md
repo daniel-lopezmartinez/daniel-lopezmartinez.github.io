@@ -45,7 +45,10 @@ Work Experience
 
 Awards and Honors
 ======
-Need to add.
+* Best Paper Award, MICCAI Applications of Medical AI (AMAI) Workshop, 2022  
+* Best Student Paper Award, International Conference on Pattern Recognition (ICPR), 2018  
+* Second Prize, Computing in Cardiology (CinC) Challenge Event 1, 2011  
+* ACGI Medal for Excellence, Faculty of Engineering, Imperial College London, 2013
 
 Skills
 ======
