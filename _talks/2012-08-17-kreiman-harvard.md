@@ -3,7 +3,7 @@ title: "Modeling Loop Formation in Cortical Circuits Using Spike Timing Dependen
 collection: talks
 type: "Talk"
 permalink: /talks/2012-08-17-kreiman-harvard
-venue: "Kreiman Laboratory, Harvard Medical School and Boston Children's Hospital"
+venue: "Kreiman Laboratory, Harvard University"
 date: 2012-08-17
 location: "Boston, MA, USA"
 ---
