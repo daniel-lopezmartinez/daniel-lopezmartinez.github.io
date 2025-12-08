@@ -29,7 +29,7 @@ If we take seriously the idea of software acting as a doctor, the relevant use c
 
 Among all the core doctor functions, prescribing sits in a category of its own. It is where clinical judgment, pharmacology, risk management, and legal responsibility converge. It is also where the potential value of automation is enormous: a huge fraction of primary care encounters involve well-understood conditions with highly protocolized treatment pathways, from hyperlipidemia and hypertension to stable chronic disease management. If an AI system could safely and autonomously manage even a slice of these workflows, the value unlock would be profound.
 
-Today, however, prescribing is tightly gatekept by law. The bill [H.R. 238 (Healthy Technology Act of 2025)](https://www.congress.gov/bill/119th-congress/house-bill/238) is interesting precisely because it touches this boundary: it would amend the [FD&C Act](https://en.wikipedia.org/wiki/Federal_Food,_Drug,_and_Cosmetic_Act) so that AI/ML technologies can, in principle, qualify as a “practitioner licensed by law to administer such drug,” provided two conditions are met:
+Today, however, prescribing is tightly gatekept by law. The bill [H.R. 238 (Healthy Technology Act of 2025)](https://www.congress.gov/bill/119th-congress/house-bill/238) is interesting precisely because it touches this boundary: it would amend the [FD&C Act](https://en.wikipedia.org/wiki/Federal_Food,_Drug,_and_Cosmetic_Act) so that AI/ML technologies can, in principle, qualify as a “practitioner licensed by law to administer such drug”, provided two conditions are met:
 - The AI system is authorized under state law to prescribe the drug involved.
 - It has been approved, cleared, or authorized by the FDA under one of the existing device pathways.
 
