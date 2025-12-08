@@ -25,6 +25,18 @@ The regulatory pathways for such imaging- and signal-based systems are now well 
 
 If we take seriously the idea of software acting as a doctor, the relevant use cases are not those that simply streamline documentation or assist clinicians on the margins, but the tasks that truly embody the core clinical functions of a physician. These include information gathering (e.g. taking clinical histories and selecting appropriate tests), interpreting symptoms and results, making diagnostic inferences, assessing urgency and triage, recommending treatments, and, at the far end of the spectrum, prescribing autonomously. Each of these functions carries increasing levels of clinical risk, autonomy, and regulatory scrutiny.
 
+### Autonomous prescribing: the endgame
+
+Among all the core doctor functions, prescribing sits in a category of its own. It is where clinical judgment, pharmacology, risk management, and legal responsibility converge. It is also where the potential value of automation is enormous: a huge fraction of primary care encounters involve well-understood conditions with highly protocolized treatment pathways, from hyperlipidemia and hypertension to stable chronic disease management. If an AI system could safely and autonomously manage even a slice of these workflows, the value unlock would be profound.
+
+Today, however, prescribing is tightly gatekept by law. The bill [H.R. 238 (Healthy Technology Act of 2025)](https://www.congress.gov/bill/119th-congress/house-bill/238) is interesting precisely because it touches this boundary: it would amend the [FD&C Act](https://en.wikipedia.org/wiki/Federal_Food,_Drug,_and_Cosmetic_Act) so that AI/ML technologies can, in principle, qualify as a “practitioner licensed by law to administer such drug,” provided two conditions are met:
+- The AI system is authorized under state law to prescribe the drug involved.
+- It has been approved, cleared, or authorized by the FDA under one of the existing device pathways.
+
+On paper, that sounds like a potential inflection point. In practice, this bill is unlikely to become law in the near term. It has been introduced multiple times by the same sponsor, has never attracted co-sponsors, and has never advanced out of subcommittee. Even if it did pass, it would still face substantial friction at both the state level (no state currently recognizes AI as a prescribing practitioner) and within the FDA.
+
+Still, it is worth paying attention to bills like [H.R. 238](https://www.congress.gov/bill/119th-congress/house-bill/238). They implicitly say that a future in which AI systems are accepted as autonomous prescribing agents is no longer unthinkable. In the meantime, the realistic path is not fully autonomous prescribing, but AI-driven prescription recommendations with human sign-off, especially for low-risk, high-volume conditions where guidelines are clear and a clinician can rapidly confirm or override the AI’s proposal.
+
 
 ## Relevant FDA Frameworks and Guidance Documents
 
