@@ -21,6 +21,10 @@ Within the assessment category, the dominant AI behavior is not high-level reaso
 
 The regulatory pathways for such imaging- and signal-based systems are now well established. However, the FDA has not yet granted marketing authorization to any LLM-based system, whether for "_diagnosis, treatment, prevention, cure, or mitigation_" of disease. Not a single authorized device to date uses an LLM as its core inference engine. While the agency has issued forward-looking guidance acknowledging the unique challenges of genAI and natural-language interfaces, it has not yet reviewed a model whose primary mode of operation is conversational. As a result, developers of LLM-based AI clinicians must look to existing SaMD precedent, general AI/ML regulatory principles, and emerging FDA guidance to understand what evidence will be expected.  The path for conversational diagnostic AI is not yet defined, but the foundational expectations are already visible.
 
+## Core use cases for software as a doctor
+
+If we take seriously the idea of software acting as a doctor, the relevant use cases are not those that simply streamline documentation or assist clinicians on the margins, but the tasks that truly embody the core clinical functions of a physician. These include information gathering (e.g. taking clinical histories and selecting appropriate tests), interpreting symptoms and results, making diagnostic inferences, assessing urgency and triage, recommending treatments, and, at the far end of the spectrum, prescribing autonomously. Each of these functions carries increasing levels of clinical risk, autonomy, and regulatory scrutiny.
+
 
 ## Relevant FDA Frameworks and Guidance Documents
 
