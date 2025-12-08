@@ -33,7 +33,7 @@ Today, however, prescribing is tightly gatekept by law. The bill [H.R. 238 (Heal
 - The AI system is authorized under state law to prescribe the drug involved.
 - It has been approved, cleared, or authorized by the FDA under one of the existing device pathways.
 
-On paper, that sounds like a potential inflection point. In practice, this bill is unlikely to become law in the near term. It has been introduced multiple times by the same sponsor, has never attracted co-sponsors, and has never advanced out of subcommittee. Even if it did pass, it would still face substantial friction at both the state level (no state currently recognizes AI as a prescribing practitioner) and within the FDA.
+On paper, that sounds like a potential inflection point. In practice, this bill is unlikely to become law in the near term. It has been introduced multiple times by the same [sponsor](https://www.congress.gov/member/david-schweikert/S001183), has never attracted co-sponsors, and has never advanced out of subcommittee. Even if it did pass, it would still face substantial friction at both the state level (no state currently recognizes AI as a prescribing practitioner) and within the FDA.
 
 Still, it is worth paying attention to bills like [H.R. 238](https://www.congress.gov/bill/119th-congress/house-bill/238). They implicitly say that a future in which AI systems are accepted as autonomous prescribing agents is no longer unthinkable. In the meantime, the realistic path is not fully autonomous prescribing, but AI-driven prescription recommendations with human sign-off, especially for low-risk, high-volume conditions where guidelines are clear and a clinician can rapidly confirm or override the AI’s proposal.
 
