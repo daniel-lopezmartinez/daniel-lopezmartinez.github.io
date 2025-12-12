@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Daniel Lopez-Martinez"
 title_separator          : "-"
 name                     : &name "Daniel Lopez-Martinez"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Daniel Lopez-Martinez is a Senior Applied Scientist at Amazon (ex-Google) with a PhD from Harvard/MIT, working on large language models, agentic AI, computer-use models, and trustworthy AI."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://daniellopezmartinez.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
