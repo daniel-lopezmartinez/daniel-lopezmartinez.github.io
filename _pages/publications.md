@@ -13,8 +13,16 @@ author_profile: true
 
 ## Selected Publications
 {% for post in site.publications reversed %}
+  {% if post.category == 'patents'] %}
+    {% continue %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Patents
-- [Systems for Generation of Prompts for Evaluation of Language Models (Amazon))](https://ppubs.uspto.gov/api/patents/html/20250378274?source=US-PGPUB&requestToken=eyJzdWIiOiI5MTNhN2ZhYS1jNGNmLTQ1NWEtYmYzZS0wMDAwYzAzMTI2ODkiLCJ2ZXIiOiJkYTI4MzgwMy04NTZjLTRiMzgtYTVmMi1jODNkOWM2ZTAzMmYiLCJleHAiOjB9)
+{% for post in site.publications reversed %}
+  {% if post.category != 'patents'] %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
