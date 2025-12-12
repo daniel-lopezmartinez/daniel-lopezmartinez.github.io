@@ -15,7 +15,7 @@ author_profile: true
 
 ## Selected Publications
 {% for post in site.publications reversed %}
-  {% if post.category == 'patents'] %}
+  {% if post.category == 'patents' %}
     {% continue %}
   {% endif %}
   {% include archive-single.html %}
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Patents
 {% for post in site.publications reversed %}
-  {% if post.category != 'patents'] %}
+  {% if post.category != 'patents' %}
     {% continue %}
   {% endif %}
   {% include archive-single.html %}
