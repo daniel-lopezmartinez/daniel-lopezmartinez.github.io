@@ -10,4 +10,4 @@ category: amazon
 
 ### Patents
 
-Stay tuned...
+- [Systems for automated interaction with user interfaces](/publication/2025-agentic-ui-automation-patent) (patent application)
