@@ -5,7 +5,7 @@ category: patents
 permalink: /publication/2025-agentic-ui-automation-patent
 excerpt:
 date: 2025-01-15
-venue: 'United States Patent Application (pending)'
+venue: 'United States Patent Office (pending)'
 paperurl:
 citation: 'Lopez Martinez, Daniel; et al. Systems for Automated Interaction with User Interfaces. U.S. Patent Application (pending), filed 2025. Applicant: Amazon Technologies, Inc.'
 ---
