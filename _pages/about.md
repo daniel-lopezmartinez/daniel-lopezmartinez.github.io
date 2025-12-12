@@ -18,7 +18,7 @@ After my doctorate, I joined Google Health as a Software Engineer, where I worke
 - My [patent](https://daniellopezmartinez.com/publication/2025-llm-red-teaming-patent) on evaluation and red-teaming of LLMs has been published, 2025.
 - I gave an invited talk on [_Medical LLM Trustworthiness_](https://daniellopezmartinez.com/talks/2025-11-04-talk-amlc) at the Amazon Machine Learning Conference (AMLC), 2025.
 - I delivered an invited talk on [agentic system development](https://daniellopezmartinez.com/talks/2025-09-25-amazon-nas-genai-series) (covering computer-use agents, shopping agents, and health AI systems) as part of Amazon’s North America Stores GenAI Learning Series, 2025.
-- I presented our work on [AI-enabled virtual care with digital assistants](https://daniellopezmartinez.com/talks/2025-06-26-amazon-image-video-gen) at Amazon’s Image & Video Generation Workshop, 2025.
+- I presented our work on [AI-enabled virtual care with digital avatar assistants](https://daniellopezmartinez.com/talks/2025-06-26-amazon-image-video-gen) at Amazon’s Image & Video Generation Workshop, 2025.
 - Amazon's [Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands), my first agentic AI system at Amazon, has been released to US customers.
 - I filed a [patent](/publication/2025-agentic-ui-automation-patent) application on multi-agent, ML-based computer-use agents for automated interaction with third-party user interfaces, 2025.
 - I presented our work on [evaluating medical safety in LLMs](https://daniellopezmartinez.com/talks/2024-12-16-ml4h) at the Machine Learning for Health Symposium (ML4H), 2024.
