@@ -8,6 +8,8 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">For a full list of my publications please see: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+- [Selected Publications](#selected-publications)
+- [Patents](#patents)
 
 {% include base_path %}
 
