@@ -7,32 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-{% comment %}
-You can control ordering within each employer by setting `order: <number>`
-in each `_portfolio/*.md` file's front matter.
-Lower numbers appear first.
-{% endcomment %}
 
 <h2>Amazon (2023-Present)</h2>
-{% assign amazon_posts = site.portfolio | where: "category", "amazon" | sort: "order" %}
+{% assign amazon_posts = site.portfolio | where: "category", "amazon" | sort: "order" | reverse %}
 {% for post in amazon_posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Tempus AI (2023)</h2>
-{% assign tempus_posts = site.portfolio | where: "category", "tempus" | sort: "order" %}
+{% assign tempus_posts = site.portfolio | where: "category", "tempus" | sort: "order" | reverse %}
 {% for post in tempus_posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>Google (2019-2023)</h2>
-{% assign google_posts = site.portfolio | where: "category", "google" | sort: "order" %}
+{% assign google_posts = site.portfolio | where: "category", "google" | sort: "order" | reverse %}
 {% for post in google_posts %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h2>MIT (2014-2019)</h2>
-{% assign mit_posts = site.portfolio | where: "category", "mit" | sort: "order" %}
+{% assign mit_posts = site.portfolio | where: "category", "mit" | sort: "order" | reverse %}
 {% for post in mit_posts %}
   {% include archive-single.html %}
 {% endfor %}
