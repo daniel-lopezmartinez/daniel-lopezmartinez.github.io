@@ -24,6 +24,12 @@ author_profile: true
 {% endfor %}
 
 <h2>Google (2019-2023)</h2>
+{% for post in site.portfolio %}
+  {% if post.category != 'google'] %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>MIT (2014-2019)</h2>
 {% for post in site.portfolio %}
