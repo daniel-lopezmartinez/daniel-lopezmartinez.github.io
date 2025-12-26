@@ -5,7 +5,7 @@ collection: portfolio
 category: google
 ---
 
-[Project Nightingale](https://en.wikipedia.org/wiki/Project_Nightingale) was a large-scale collaboration between Google Cloud and Ascension, one of the largest healthcare systems in the United States, focused on modernizing how clinical data is stored, accessed, and analyzed.
+[Project Nightingale](https://en.wikipedia.org/wiki/Project_Nightingale) was a large-scale collaboration between [Google Cloud](https://cloud.google.com/) and [Ascension](https://about.ascension.org/), one of the largest healthcare systems in the United States, focused on modernizing how clinical data is stored, accessed, and analyzed.
 
 The project centered on building secure, scalable infrastructure for processing population-scale electronic health record (EHR) data, enabling unified access to heterogeneous clinical information such as diagnoses, laboratory results, medications, clinical notes, and longitudinal encounter histories. This work laid the foundation for advanced analytics, search, and machine-learning–enabled clinical tools.
 
