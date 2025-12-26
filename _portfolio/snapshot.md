@@ -3,6 +3,7 @@ title: SNAPSHOT
 excerpt: "The SNAPSHOT study seeks to measure Sleep, Networks, Affect, Performance, Stress, and Health using Objective Techniques."
 collection: portfolio
 category: mit
+order: 3
 ---
 
 Link: [SNAPSHOT Study](https://www.media.mit.edu/projects/snapshot-study/overview/)

@@ -3,6 +3,7 @@ title: "Crowdsourced Air Pollution Measurement Using DIY Atomic Force Microscope
 excerpt: "A low-cost, citizen-science platform for measuring and analyzing air pollution particles using do-it-yourself atomic force microscopes and human-in-the-loop image analysis."
 collection: portfolio
 category: mit
+order: 4
 ---
 
 This project explored how low-cost scientific instrumentation, citizen science, and human computation can be combined to enable scalable and accessible air pollution measurement at nanoscale resolution.
