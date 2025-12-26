@@ -1,6 +1,6 @@
 ---
 title: "Project Nightingale"
-excerpt: "A large-scale clinical data infrastructure and analytics initiative focused on aggregating, standardizing, and enabling analysis of population-scale EHR data to support clinical workflows and machine learning in healthcare."
+excerpt: "A large-scale clinical data infrastructure and analytics initiative focused on aggregating, standardizing, and enabling analysis of population-scale EHR data to support clinical workflows and machine learning in healthcare.<br/><img src='/images/blog/project_nightingale.jpeg' width='300'>"
 collection: portfolio
 category: google
 ---
