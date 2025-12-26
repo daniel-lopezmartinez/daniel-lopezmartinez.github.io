@@ -1,0 +1,44 @@
+{% comment %}
+  Simple video embed include for GitHub Pages / Jekyll.
+
+  Usage:
+    {% include video.html provider="youtube" id="0EvG8Z8bfQw" title="My talk" %}
+
+  Supported providers:
+    - youtube (default)
+    - vimeo
+
+  Optional params:
+    - title: iframe title attribute
+    - padding: aspect ratio padding-top (default: 56.25% for 16:9)
+    - src: full src URL (used when provider is unknown)
+{% endcomment %}
+
+{% assign provider = include.provider | default: "youtube" %}
+{% assign id = include.id %}
+{% assign title = include.title | default: "Video" %}
+{% assign padding = include.padding | default: "56.25%" %}
+
+{% if provider == "youtube" %}
+  {% assign src = "https://www.youtube-nocookie.com/embed/" | append: id | append: "?rel=0" %}
+{% elsif provider == "vimeo" %}
+  {% assign src = "https://player.vimeo.com/video/" | append: id %}
+{% else %}
+  {% assign src = include.src %}
+{% endif %}
+
+{% if src and src != "" %}
+<div class="fluid-width-video-wrapper" style="padding-top: {{ padding }};">
+  <iframe
+    src="{{ src }}"
+    title="{{ title | escape }}"
+    frameborder="0"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+{% else %}
+  {% comment %} Fail loudly but safely if params are missing {% endcomment %}
+  <p><strong>Video include error:</strong> missing <code>id</code> (or <code>src</code> for custom providers).</p>
+{% endif %}
