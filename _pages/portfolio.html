@@ -11,13 +11,18 @@ author_profile: true
 
 <nav class="portfolio-nav" aria-label="Portfolio sections">
   <style>
-    /* Force bullets for the portfolio jump-links list (theme nav styles may remove list markers) */
+    /*
+      Force bullets for the portfolio jump-links list.
+      Some themes render nav lists with `display:flex` / `list-style:none`, which hides markers.
+    */
     .portfolio-nav__list {
-      list-style: disc !important;
+      display: block !important;
+      list-style: disc outside !important;
       padding-left: 1.25em !important;
-      margin-left: 0 !important;
+      margin: 0 0 1em 0 !important;
     }
     .portfolio-nav__list li {
+      display: list-item !important;
       margin: 0.25em 0;
     }
   </style>
