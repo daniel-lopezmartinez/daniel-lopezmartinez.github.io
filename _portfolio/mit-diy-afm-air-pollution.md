@@ -26,7 +26,7 @@ The project demonstrated how human computation can complement low-cost sensing, 
 
 ### Outcomes
 
-- [Live system demo](/talks/2015-08-25-lego2nano/) presented at the LEGO2NANO Summer School at the Shenzhen Open Innovation Lab (SZOIL), China
+- [Live system demo](/talks/2015-08-25-lego2nano) presented at the LEGO2NANO Summer School at the Shenzhen Open Innovation Lab (SZOIL), China
 - First-author publication: [*A Crowdsourcing based Air Pollution Measurement System Using DIY Atomic Force Microscopes*](https://hcjournal.org/index.php/jhc/article/view/66)
 
 ### Pictures
