@@ -51,6 +51,9 @@ author_profile: true
 {% endfor %}
 
 <h2 id="tempus">Tempus AI (2023)</h2>
+
+<p>At Tempus, my work focused on developing applied machine learning systems for clinical decision support, with an emphasis on computer vision models for quantitative analysis of pathology data used in oncology workflows.</p>
+
 {% assign tempus_posts = site.portfolio | where: "category", "tempus" | sort: "order" | reverse %}
 {% for post in tempus_posts %}
   {% include archive-single.html %}
