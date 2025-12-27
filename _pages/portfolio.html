@@ -66,6 +66,9 @@ author_profile: true
 {% endfor %}
 
 <h2 id="mit">MIT (2014-2019)</h2>
+
+<p>At MIT, my PhD research focused on applying AI and multimodal sensing to the objective measurement of human pain, combining physiological signals, computer vision, and affective computing. In parallel, I pursued several additional projects in human-centered AI, listed below.</p>
+
 {% assign mit_posts = site.portfolio | where: "category", "mit" | sort: "order" | reverse %}
 {% for post in mit_posts %}
   {% include archive-single.html %}
