@@ -36,6 +36,9 @@ author_profile: true
   </ul>
 </nav>
 
+<p>For context on my early entrepreneurship experience during my PhD, see the short section on [venture formation](#entrepreneurship).
+</p>
+
 <h2 id="amazon">Amazon (2023-Present)</h2>
 {% assign amazon_posts = site.portfolio | where: "category", "amazon" | sort: "order" | reverse %}
 {% for post in amazon_posts %}
@@ -57,5 +60,11 @@ author_profile: true
 <h2 id="mit">MIT (2014-2019)</h2>
 {% assign mit_posts = site.portfolio | where: "category", "mit" | sort: "order" | reverse %}
 {% for post in mit_posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2 id="entrepreneurship">Entrepreneurship</h2>
+{% assign entrepreneurship_posts = site.portfolio | where: "category", "entrepreneurship" | sort: "order" | reverse %}
+{% for post in entrepreneurship_posts %}
   {% include archive-single.html %}
 {% endfor %}
