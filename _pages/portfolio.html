@@ -60,6 +60,9 @@ author_profile: true
 {% endfor %}
 
 <h2 id="google">Google (2019-2023)</h2>
+
+<p>At Google, my work focused on building foundational data and machine learning systems for population-scale healthcare applications.</p>
+
 {% assign google_posts = site.portfolio | where: "category", "google" | sort: "order" | reverse %}
 {% for post in google_posts %}
   {% include archive-single.html %}
