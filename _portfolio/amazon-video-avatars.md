@@ -1,6 +1,6 @@
 ---
 title: "Video Avatars & Multimodal Experiences"
-excerpt: "Applied research and prototyping of video-based, multimodal AI experiences that combine speech, vision, and structured interaction flows to enable natural, task-oriented user interactions."
+excerpt: "Applied research and prototyping of video-based, multimodal AI experiences combining speech, vision, and structured interaction flows to enable natural, task-oriented user interactions."
 collection: portfolio
 category: amazon
 order: 3
