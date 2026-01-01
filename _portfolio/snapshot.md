@@ -13,7 +13,7 @@ SNAPSHOT is a large-scale, NIH-funded longitudinal study investigating how sleep
 
 ### Multimodal Longitudinal Sensing
 
-Conducted jointly by the MIT Media Lab (Affective Computing & Collective Learning groups) and Harvard Medical School / Brigham & Women’s Hospital, SNAPSHOT followed socially connected cohorts of college students across multiple semesters. Over four years, the study collected continuous wearable, mobile phone, survey, and laboratory data from 300+ participants, yielding thousands of days of high-resolution longitudinal data.
+Conducted jointly by the [MIT Media Lab](https://www.media.mit.edu/) ([Affective Computing](https://www.media.mit.edu/groups/affective-computing/overview/) & [Collective Learning](https://www.media.mit.edu/groups/collective-learning/overview/) groups) and [Harvard Medical School](https://hms.harvard.edu/) / [Brigham & Women’s Hospital](https://www.brighamandwomens.org/), SNAPSHOT followed socially connected cohorts of college students across multiple semesters. Over four years, the study collected continuous wearable, mobile phone, survey, and laboratory data from 300+ participants, yielding thousands of days of high-resolution longitudinal data.
 
 Participants were monitored using wearable sensors (electrodermal activity, skin temperature, motion), mobile phone–based behavioral sensing (communication patterns, mobility, screen usage), and self-reported mood, stress, and health measures, alongside clinical sleep assessments. Unlike traditional sleep studies, SNAPSHOT explicitly captured both individual physiology and social network structure, enabling the study of sleep and mental health as networked, dynamic phenomena rather than isolated behaviors.
 
