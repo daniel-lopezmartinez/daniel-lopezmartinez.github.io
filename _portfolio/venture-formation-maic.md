@@ -1,6 +1,6 @@
 ---
 title: "MAIC"
-excerpt: "Co-founded an early-stage startup through the Antler accelerator, incorporated and based in Singapore, focused on applying AI, computer vision, and IoT to workforce and task management in the construction industry."
+excerpt: "Co-founded an early-stage startup through the Antler accelerator, incorporated and based in Singapore, focused on applying AI, computer vision, and IoT to workforce and task management in the construction industry.<br/><img src='/images/blog/maic.jpg' width='300'>"
 collection: portfolio
 category: entrepreneurship
 order: 1
