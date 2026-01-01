@@ -1,6 +1,6 @@
 ---
 title: "SNAPSHOT: Modeling Sleep and Mental Health in Social Networks"
-excerpt: "A large-scale NIH-funded study combining multimodal sensing and machine learning to model sleep, stress, and mental health dynamics in real-world social networks."
+excerpt: "A large-scale NIH-funded study combining multimodal sensing and machine learning to model sleep, stress, and mental health dynamics in real-world social networks.<br/><img src='/images/blog/snapshot.jpg' width='300'>"
 collection: portfolio
 category: mit
 order: 3
