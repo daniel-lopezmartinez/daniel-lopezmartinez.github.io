@@ -16,6 +16,8 @@ _Buy For Me_ is implemented as a modular agentic architecture that combines mult
 As a founding scientist behind _Buy For Me_, I contributed from early problem framing through productionization. My work spanned defining the end-to-end agentic workflow for off-Amazon purchasing, evaluating and selecting between alternative agent frameworks, and shaping the decision to build a first-party agentic system. I worked on the core system design, evaluation, data, and scaling strategy for purchase automation, built early proof-of-concept agents, authored key components of the multi-agent framework used for reasoning and action execution, and developed browser-level authentication mechanisms to enable automated, end-to-end purchasing.
  
 
+_Buy For Me_ has been covered by [Forbes](https://www.forbes.com/sites/kirimasters/2025/04/08/amazon-buy-for-me-is-the-latest-entrant-in-the-ai-shopping-agent-race/), [Engadget](https://www.engadget.com/ai/amazons-buy-for-me-ai-will-purchase-stuff-from-third-party-websites-123036361.html), [The Verge](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites), [9to5mac](https://9to5mac.com/2025/04/03/amazons-new-buy-for-me-feature-is-a-wild-ai-innovation/) and others.
+
 ### Patents
 
 - [Systems for automated interaction with user interfaces](/publication/2025-agentic-ui-automation-patent) (patent application)
