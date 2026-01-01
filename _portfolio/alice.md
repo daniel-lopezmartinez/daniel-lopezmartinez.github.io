@@ -1,5 +1,5 @@
 ---
-title: "Large-Scale Evaluation of Generative Shopping Assistants"
+title: "Scalable Trust, Safety, and Quality Infrastructure for LLM-Based Shopping Assistants"
 excerpt: "Scalable evaluation framework to assess factual accuracy, safety, and quality across millions of LLM-generated shopping answers.<br/><img src='/images/blog/rufus.jpg' width='300'>"
 collection: portfolio
 category: amazon
