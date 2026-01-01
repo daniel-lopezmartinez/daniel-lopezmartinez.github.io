@@ -18,7 +18,7 @@ I led the development of systems to automatically produce actionable quality met
 To complement offline evaluation and human annotation, I developed an automated red-teaming framework designed to systematically surface failure modes in large language models. Rather than relying on manual prompt crafting, the approach generates synthetic prompts that are explicitly optimized to elicit responses that violate predefined constraints such as factual correctness, safety, or policy compliance.
 
 
-This approach, described in the patent [Systems for Generation of Prompts for Evaluation of Language Models](/publication/2025-llm-red-teaming-patent), enables scalable, repeatable adversarial testing and integrates directly with production evaluation pipelines, allowing red-teaming signals to continuously inform quality metrics, root-cause analysis, and model iteration.
+This approach, described in the patent _[Systems for Generation of Prompts for Evaluation of Language Models](/publication/2025-llm-red-teaming-patent)_, enables scalable, repeatable adversarial testing and integrates directly with production evaluation pipelines, allowing red-teaming signals to continuously inform quality metrics, root-cause analysis, and model iteration.
 
 
 ### Medical-Specific Trust & Safety Evaluation
