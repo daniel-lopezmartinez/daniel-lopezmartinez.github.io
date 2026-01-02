@@ -6,8 +6,6 @@ category: amazon
 order: 1
 ---
 
-
-continuous, production-scale measurement of accuracy, policy compliance, and user trust for Amazon’s generative shopping assistant, replacing manual review with automated evaluation and actionable quality signals across millions of model responses per week.
 ### Overview
 
 This project focuses on building the large-scale evaluation and quality infrastructure supporting [Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus), Amazon’s generative shopping assistant. As generative models became deeply integrated into the shopping experience, ensuring factual accuracy, relevance, and safety at scale became a first-order product and trust requirement.
