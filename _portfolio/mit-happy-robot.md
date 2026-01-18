@@ -1,5 +1,5 @@
 ---
-title: "MIT Happy Robot"
+title: "MIT Happy Robot: Real-Time Affective Interaction & Social Robotics"
 excerpt: "Real-time facial emotion recognition integrated with expressive social robotics for engaging, affect-aware human–robot interaction."
 collection: portfolio
 category: mit
