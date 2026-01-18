@@ -1,6 +1,6 @@
 ---
 title: "MIT Happy Robot: Real-Time Affective Interaction & Social Robotics"
-excerpt: "Real-time facial emotion recognition integrated with expressive social robotics for engaging, affect-aware human–robot interaction."
+excerpt: "Real-time facial emotion recognition integrated with expressive social robotics for engaging, affect-aware human–robot interaction.<br/><img src='/images/blog/2017-03-17-wohasu-robot-small.jpg' width='300'>"
 collection: portfolio
 category: mit
 order: 1
