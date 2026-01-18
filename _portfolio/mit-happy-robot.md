@@ -40,3 +40,10 @@ The project helped inform later work on affective computing, human-centered AI, 
 We demonstrated this robot at the [World Happiness Summit](https://worldhappinesssummit.com/).
 
 {% include video.html id="0EvG8Z8bfQw" provider="youtube" title="MIT Happy Robot" %}
+
+
+<img src='/images/blog/2017-03-17-wohasu.jpg' width="700" height="400">
+
+<img src='/images/blog/2017-03-18-wohasu_1.jpg' width="700" height="400">
+
+<img src='/images/blog/2017-03-18-wohasu_2.jpg' width="700" height="400">
