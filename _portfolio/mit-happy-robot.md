@@ -37,7 +37,7 @@ The project helped inform later work on affective computing, human-centered AI, 
 
 ### World Happiness Summit
 
-This project was demonstrated live at the [World Happiness Summit](https://worldhappinesssummit.com/) and developed as joint work with [Ognjen Rudovic](https://www.media.mit.edu/people/orudovic/overview/) and [Javier Hernandez](https://www.media.mit.edu/people/javierhr/overview/).
+This project was demonstrated live at the [World Happiness Summit](https://worldhappinesssummit.com/) (Miami, March 2016) and developed as joint work with [Ognjen Rudovic](https://www.media.mit.edu/people/orudovic/overview/) and [Javier Hernandez](https://www.media.mit.edu/people/javierhr/overview/).
 
 #### Video Demo
 
