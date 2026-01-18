@@ -50,3 +50,5 @@ This project was demonstrated live at the [World Happiness Summit](https://world
 <img src='/images/blog/2017-03-18-wohasu_1.jpg' width="700" height="400">
 
 <img src='/images/blog/2017-03-18-wohasu_2.jpg' width="700" height="400">
+
+<img src='/images/blog/2017-03-17-wohasu-robot.jpg' width="700" height="400">
