@@ -37,10 +37,13 @@ The project helped inform later work on affective computing, human-centered AI, 
 
 ### World Happiness Summit
 
-We demonstrated this robot at the [World Happiness Summit](https://worldhappinesssummit.com/).
+This project was demonstrated live at the [World Happiness Summit](https://worldhappinesssummit.com/) and developed as joint work with [Ognjen Rudovic](https://www.media.mit.edu/people/orudovic/overview/) and [Javier Hernandez](https://www.media.mit.edu/people/javierhr/overview/).
+
+#### Video Demo
 
 {% include video.html id="0EvG8Z8bfQw" provider="youtube" title="MIT Happy Robot" %}
 
+#### Photos
 
 <img src='/images/blog/2017-03-17-wohasu.jpg' width="700" height="400">
 
