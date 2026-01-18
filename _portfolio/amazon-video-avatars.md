@@ -3,7 +3,7 @@ title: "Video Avatars & Multimodal Experiences"
 excerpt: "Applied research and prototyping of video-based, multimodal AI experiences combining speech, vision, and structured interaction flows to enable natural, task-oriented user interactions."
 collection: portfolio
 category: amazon
-order: 3
+order: 4
 ---
 
 A set of real-time and near-real-time video avatar experiences that combine speech, vision, and structured interaction flows. The work explored how embodied, multimodal interfaces can support more natural, persistent, and task-oriented interactions between users and AI systems.
