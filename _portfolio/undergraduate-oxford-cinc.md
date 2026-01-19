@@ -8,9 +8,9 @@ order: 2
 
 ### Overview
 
-This project focused on automated assessment of electrocardiogram (ECG) signal quality to determine whether recordings are diagnostically acceptable when acquired in noisy, ambulatory, or low-resource settings. The work was conducted during an undergraduate research appointment at the Oxford Institute of Biomedical Engineering (IBME), University of Oxford, in collaboration with Gari Clifford.
+This project focused on automated assessment of electrocardiogram (ECG) signal quality to determine whether recordings are diagnostically acceptable when acquired in noisy, ambulatory, or low-resource settings. The work was conducted during an undergraduate research appointment at the [Oxford Institute of Biomedical Engineering (IBME)](https://ibme.ox.ac.uk/), University of Oxford, in collaboration with [Gari Clifford](https://en.wikipedia.org/wiki/Gari_Clifford).
 
-I co-presented this work with Prof. Clifford as an oral presentation at the Computing in Cardiology Conference (CinC) 2011, held in Hangzhou, China.
+I co-presented this work with Prof. Clifford as an [oral presentation](https://daniellopezmartinez.com/talks/2011-09-19-cinc) at the [Computing in Cardiology Conference (CinC) 2011](https://www.cinc.org/2011/), held in Hangzhou, China.
 
 ### Methodological Focus
 
@@ -32,7 +32,7 @@ The algorithms were designed to be lightweight and computationally efficient, en
 
 ### PhysioNet / CinC Challenge 2011
 
-This work formed part of the PhysioNet/Computing in Cardiology Challenge 2011, which focused on ECG quality assessment for consumer and ambulatory monitoring scenarios.
+This work formed part of the [PhysioNet/Computing in Cardiology Challenge 2011](https://physionet.org/content/challenge-2011/1.0.0/), which focused on ECG quality assessment for consumer and ambulatory monitoring scenarios.
 
 Our team placed 2nd in Event 1 of the challenge. On held-out test data, the proposed approach achieved up to ~95% accuracy in distinguishing acceptable from unacceptable ECG recordings.
 
@@ -48,3 +48,9 @@ The results informed:
 - User-feedback mechanisms for self-acquired biosignals
 
 More broadly, the work contributed to early foundations of real-time physiological signal triage, a theme that later reappears in my work on multimodal sensing, healthcare AI, and robust model evaluation under real-world noise.
+
+### Photos
+
+<img src='/images/blog/2011-09-19-gari-clifford-daniel.jpg' width="700" height="400">
+
+<img src='/images/blog/2011-09-19-cinc-presentation.jpg' width="700" height="400">
