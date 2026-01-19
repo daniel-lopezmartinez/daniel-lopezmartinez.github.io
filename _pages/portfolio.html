@@ -33,6 +33,7 @@ author_profile: true
     <li><a href="#tempus">Tempus AI (2023)</a></li>
     <li><a href="#google">Google (2019–2023)</a></li>
     <li><a href="#mit">MIT (2014–2019)</a></li>
+    <li><a href="#undergraduate">Early Research Appointments (Undergraduate)</a></li>
   </ul>
 </nav>
 
@@ -74,6 +75,12 @@ author_profile: true
 
 {% assign mit_posts = site.portfolio | where: "category", "mit" | sort: "order" | reverse %}
 {% for post in mit_posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2 id="undergraduate">Early Research Appointments (Undergraduate)</h2>
+{% assign undergraduate_posts = site.portfolio | where: "category", "undergraduate" | sort: "order" | reverse %}
+{% for post in undergraduate_posts %}
   {% include archive-single.html %}
 {% endfor %}
 
