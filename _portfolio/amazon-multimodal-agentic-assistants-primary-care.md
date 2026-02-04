@@ -6,8 +6,11 @@ category: amazon
 order: 5
 ---
 
-This work focused on the design and development of multimodal, agentic assistants for primary care, intended to support patient interactions across voice and text modalities while operating under the safety, reliability, and regulatory requirements of real-world healthcare settings.
+This project centered on the end-to-end design, scientific leadership, and production deployment of a patient-facing, agentic AI assistant for primary care at Amazon One Medical. The system supports natural language interactions across text and voice, understands a member’s longitudinal health context, and can safely take action (such as guiding care decisions, routing to clinicians, and initiating workflows) within a regulated healthcare environment.
 
+Unlike traditional healthcare chatbots, this assistant was built as an agentic system: it combines large language models with structured decision logic, clinical safety layers, and healthcare-specific tooling to move beyond Q&A toward trusted, outcome-oriented assistance. The work required balancing cutting-edge multimodal AI with the realities of medical risk, compliance, and real-world deployment at scale.
+
+The project launched publicly as [Amazon One Medical’s Health AI assistant](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant), marking one of the first large-scale deployments of an agentic, healthcare-native AI system embedded directly into a primary care experience.
 
 ### Media coverage
 
