@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Agentic Assistants for Primary Care"
-excerpt: "A patient-facing, multimodal assistant designed to support text- and voice-based interactions in primary care, integrating language, audio, and structured workflows under safety and regulatory constraints."
+excerpt: "A patient-facing, multimodal assistant designed to support text- and voice-based interactions in primary care, integrating language, audio, and structured workflows under safety and regulatory constraints.<br/><img src='/images/blog/2026-01-21-amazon_ai_health_assistant.jpeg' width='300'>"
 collection: portfolio
 category: amazon
 order: 5
