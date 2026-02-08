@@ -37,3 +37,11 @@ This approach allowed the model to adapt to individual pain phenotypes while sti
 The system was evaluated on data collected from 43 participants exposed to controlled noxious and non-noxious stimuli while wearing the fNIRS device. Using only frontal brain signals, the personalized models achieved ~87% accuracy in distinguishing pain vs. no-pain states, substantially outperforming standard single-task classifiers.
 
 These results demonstrated that accurate pain detection is possible using a small number of wearable sensors and appropriately personalized inference.
+
+
+### Media coverage
+
+- MIT News: [Detecting patients’ pain levels via their brain signals](https://news.mit.edu/2019/detecting-pain-levels-brain-signals-0912) 
+- Tech Explorist: [Measuring a patient’s pain level by analyzing brain activity](https://www.techexplorist.com/measuring-patients-pain-level-analyzing-brain-activity/26407/) 
+- Medtec Innovation: [What If a Machine Could Read Your Brain Signals for Pain?](https://en.medtecinnovation.com/rddesign/980/) 
+- SciTechDaily: [Analyzing Brain Activity to Detect and Treat Patient Pain Even When Unconscious](https://scitechdaily.com/analyzing-brain-activity-to-detect-and-treat-patient-pain-even-when-unconscious/)
