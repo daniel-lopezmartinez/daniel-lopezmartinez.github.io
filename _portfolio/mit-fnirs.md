@@ -1,6 +1,6 @@
 ---
 title: "Objective Pain Detection from Brain Signals using fNIRS"
-excerpt: "Personalized machine learning on wearable neuroimaging signals to objectively detect pain in non-communicative patients.<br/><img src='/images/blog/2019-09-12-fnirs.jpg' width='300'>"
+excerpt: "Personalized machine learning on wearable neuroimaging signals to objectively detect pain in non-communicative patients.<br/><img src='/images/blog/2019-09-12-brain-fnirs.jpg' width='300'>"
 collection: portfolio
 category: mit
 order: 5
