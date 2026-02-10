@@ -17,3 +17,4 @@ This work was among the first applications of deep reinforcement learning to aut
 ### Media coverage
 - HealthExec: [Opioid epidemic may have new nemesis in AI-based ‘deep reinforcement learning'](https://healthexec.com/topics/precision-medicine/opioid-epidemic-ai-deep-reinforcement-learning)
 - Psychology Today: [Using AI to Manage Opioid Use in Hospital ICUs](https://www.psychologytoday.com/us/blog/the-future-brain/201907/using-ai-manage-opioid-use-in-hospital-icus)
+- Physician-Patient Alliance for Health & Safety: [3 Ideas to Improve Patient Care](https://ppahs.org/2019/08/3-ideas-to-improve-patient-care/)
