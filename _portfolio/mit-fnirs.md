@@ -45,3 +45,4 @@ These results demonstrated that accurate pain detection is possible using a smal
 - Tech Explorist: [Measuring a patient’s pain level by analyzing brain activity](https://www.techexplorist.com/measuring-patients-pain-level-analyzing-brain-activity/26407/) 
 - Medtec Innovation: [What If a Machine Could Read Your Brain Signals for Pain?](https://en.medtecinnovation.com/rddesign/980/) 
 - SciTechDaily: [Analyzing Brain Activity to Detect and Treat Patient Pain Even When Unconscious](https://scitechdaily.com/analyzing-brain-activity-to-detect-and-treat-patient-pain-even-when-unconscious/)
+- Physician-Patient Alliance for Health & Safety: [We Need To Rethink How We Use Opioids And Manage Pain](https://ppahs.org/2019/09/we-need-to-rethink-how-we-use-opioids-and-manage-pain/)
