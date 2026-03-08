@@ -140,8 +140,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : profile-kilimanjaro.jpeg # Social media default site image
 og_description           :  # Social media default site image description
+
+# `og_image` is also used as a strong hint for search engines associating this
+# site with the author.
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
