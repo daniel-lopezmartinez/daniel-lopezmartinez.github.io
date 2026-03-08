@@ -45,9 +45,9 @@ This project was demonstrated live at the [World Happiness Summit](https://world
 
 #### Photos
 
-<img src='/images/blog/2017-03-17-wohasu.jpg' width="700" height="400">
+<img src='/images/blog/2017-03-17-wohasu.jpg' alt='Daniel Lopez-Martinez and Javier Hernandez showing the MIT Happy Robot' width="700" height="400">
 
-<img src='/images/blog/2017-03-18-wohasu_1.jpg' width="700" height="400">
+<img src='/images/blog/2017-03-18-wohasu_1.jpg' alt='Daniel Lopez-Martinez and Ognjen (Oggie) Rudovic showing the MIT Happy Robot' width="700" height="400">
 
 <img src='/images/blog/2017-03-18-wohasu_2.jpg' width="700" height="400">
 
