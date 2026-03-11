@@ -23,7 +23,7 @@ repository               : "daniel-lopezmartinez/daniel-lopezmartinez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-bw.jpg"
+  avatar           : "profile-seattle.jpg"
   name             : "Daniel Lopez-Martinez"
   pronouns         : # example: "he/him"  
   bio              : "Senior Applied Scientist, Amazon<br>ex-Google, ex-Tempus<br>PhD from Harvard/MIT"
@@ -140,7 +140,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile-bw.jpg # Social media default site image
+og_image                 : profile-seattle.jpg # Social media default site image
 og_description           :  # Social media default site image description
 
 # `og_image` is also used as a strong hint for search engines associating this
