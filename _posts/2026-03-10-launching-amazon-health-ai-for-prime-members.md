@@ -10,7 +10,7 @@ tags:
   - one-medical
 ---
 
-Today marks an exciting milestone for our team at Amazon: Health AI is now rolling out to millions of Amazon Prime members.
+Today marks an exciting milestone for our team at Amazon: [Health AI](http://amazon.com/health-ai) is now rolling out to millions of Amazon Prime members.
 
 Over the past few months, our team has been heads-down building something we believe can fundamentally change how people manage their health. Health AI is a personal AI-powered health assistant designed to help customers understand their health information, navigate care options, and connect directly with services such as One Medical.
 
