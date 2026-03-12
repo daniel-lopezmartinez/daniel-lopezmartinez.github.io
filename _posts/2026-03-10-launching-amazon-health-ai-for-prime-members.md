@@ -1,0 +1,33 @@
+---
+title: 'Launching Amazon Health AI for Prime Members'
+date: 2026-03-10
+permalink: /posts/2026/03/2026-03-10-launching-amazon-health-ai-for-prime-members/
+tags:
+  - amazon
+  - healthcare
+  - ai
+  - health-ai
+  - one-medical
+---
+
+Today marks an exciting milestone for our team at Amazon: Health AI is now rolling out to millions of Amazon Prime members.
+
+Over the past few months, our team has been heads-down building something we believe can fundamentally change how people manage their health. Health AI is a personal AI-powered health assistant designed to help customers understand their health information, navigate care options, and connect directly with services such as One Medical.
+
+Following an initial launch with One Medical earlier this year, we are now expanding the experience so that it becomes available directly on Amazon.com and in the Amazon App for Prime members.
+
+Building a 0→1 product in healthcare requires deep collaboration across science, engineering, product, clinical, and safety teams. It has been a privilege to work alongside such a talented group of colleagues to bring this vision to life.
+
+This launch represents an important step toward making healthcare more accessible, more understandable, and better integrated into everyday life.
+
+You can read more about the launch here: [https://lnkd.in/gGrpNPTm](https://lnkd.in/gGrpNPTm)
+
+## Media Coverage
+
+I’m humbled by the reception so far. Below is a running list of news articles and external coverage about this launch:
+
+- *Reuters* — [“Amazon launches healthcare AI assistant on its website, app”](https://www.reuters.com/legal/litigation/amazon-launches-healthcare-ai-assistant-its-website-app-2026-03-10/) (2026-03-10)
+- *TechCrunch* — [“Amazon launches its healthcare AI assistant on its website and app”](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/) (2026-03-10)
+- *TechRepublic* — [“Amazon Expands Health AI to Its Retail App, Offering Prime Members Free 24/7 Virtual Care”](https://www.techrepublic.com/article/news-amazon-health-ai-app-site/) (2026-03-10)
+- *CNET* — [“Amazon Expands Health AI Access for Virtual Health Care”](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/) (2026-03-11)
+- *HealthcareDive* — [“Amazon expands access to health-focused AI assistant”](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/) (2026-03-11)
