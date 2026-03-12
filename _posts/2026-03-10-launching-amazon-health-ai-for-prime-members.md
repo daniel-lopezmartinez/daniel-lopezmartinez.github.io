@@ -32,6 +32,8 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - CNET: [Amazon Expands Health AI Access for Virtual Health Care](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/)
 - HealthcareDive: [Amazon expands access to health-focused AI assistant](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/)
 - TechTarget: [Amazon expands Health AI chatbot to all Prime members](https://www.techtarget.com/patientengagement/news/366639961/Amazon-expands-Health-AI-chatbot-to-all-Prime-members)
+- Gadget Review: [Amazon Launches AI Health Assistant for Everyday Medical Questions](https://www.gadgetreview.com/amazon-launches-ai-health-assistant-for-everyday-medical-questions)
+- Seeking Alpha: [Amazon health AI assistant launched on website and app](https://seekingalpha.com/news/4562859-amazon-health-ai-launched-website-and-app)
 
 ## The Team
 
