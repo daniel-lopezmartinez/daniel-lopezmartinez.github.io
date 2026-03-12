@@ -26,12 +26,12 @@ You can read more about the launch here: [https://www.aboutamazon.com/news/retai
 
 I’m humbled by the reception so far. Below is a running list of news articles and external coverage about this launch:
 
-- Reuters: [“Amazon launches healthcare AI assistant on its website, app”](https://www.reuters.com/legal/litigation/amazon-launches-healthcare-ai-assistant-its-website-app-2026-03-10/)
-- TechCrunch: [“Amazon launches its healthcare AI assistant on its website and app”](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/)
-- TechRepublic: [“Amazon Expands Health AI to Its Retail App, Offering Prime Members Free 24/7 Virtual Care”](https://www.techrepublic.com/article/news-amazon-health-ai-app-site/)
-- CNET: [“Amazon Expands Health AI Access for Virtual Health Care”](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/)
-- HealthcareDive: [“Amazon expands access to health-focused AI assistant”](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/)
-- TechTarget: [“Amazon expands Health AI chatbot to all Prime members”](https://www.techtarget.com/patientengagement/news/366639961/Amazon-expands-Health-AI-chatbot-to-all-Prime-members)
+- Reuters: [Amazon launches healthcare AI assistant on its website, app](https://www.reuters.com/legal/litigation/amazon-launches-healthcare-ai-assistant-its-website-app-2026-03-10/)
+- TechCrunch: [Amazon launches its healthcare AI assistant on its website and app](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/)
+- TechRepublic: [Amazon Expands Health AI to Its Retail App, Offering Prime Members Free 24/7 Virtual Care](https://www.techrepublic.com/article/news-amazon-health-ai-app-site/)
+- CNET: [Amazon Expands Health AI Access for Virtual Health Care](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/)
+- HealthcareDive: [Amazon expands access to health-focused AI assistant](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/)
+- TechTarget: [Amazon expands Health AI chatbot to all Prime members](https://www.techtarget.com/patientengagement/news/366639961/Amazon-expands-Health-AI-chatbot-to-all-Prime-members)
 
 ## The Team
 
