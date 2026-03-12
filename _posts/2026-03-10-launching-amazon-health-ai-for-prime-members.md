@@ -31,7 +31,10 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - *TechRepublic* — [“Amazon Expands Health AI to Its Retail App, Offering Prime Members Free 24/7 Virtual Care”](https://www.techrepublic.com/article/news-amazon-health-ai-app-site/) (2026-03-10)
 - *CNET* — [“Amazon Expands Health AI Access for Virtual Health Care”](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/) (2026-03-11)
 - *HealthcareDive* — [“Amazon expands access to health-focused AI assistant”](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/) (2026-03-11)
+- *TechTarget* — [“Amazon expands Health AI chatbot to all Prime members”](https://www.techtarget.com/patientengagement/news/366639961/Amazon-expands-Health-AI-chatbot-to-all-Prime-members) (2026-03-11)
 
 ## The Team
 
-You don’t get from 0 to 1 alone. It’s been a privilege to build this alongside such a talented team.
+Moving from 0 to 1 is a team sport. To celebrate the milestone, several of our California-based team members traded their keyboards for clubs at the driving range after months of hard work.
+
+<img src='/images/blog/2026-03-11-amazon-ahs-team-celebration.jpeg' width="700" height="400" alt="Members of the Amazon Health AI team posing together at a golf driving range in California to celebrate the launch of Amazon Health AI for Prime Members.">
