@@ -20,7 +20,7 @@ Building a 0→1 product in healthcare requires deep collaboration across scienc
 
 This launch represents an important step toward making healthcare more accessible, more understandable, and better integrated into everyday life.
 
-You can read more about the launch here: [https://lnkd.in/gGrpNPTm](https://lnkd.in/gGrpNPTm)
+You can read more about the launch here: [https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical](https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical)
 
 ## Media Coverage
 
