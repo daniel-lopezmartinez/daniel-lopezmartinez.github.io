@@ -10,7 +10,7 @@ tags:
   - one-medical
 ---
 
-Today marks an exciting milestone for our team at Amazon: [Health AI](http://amazon.com/health-ai) is now rolling out to millions of Amazon Prime members.
+Today marks an exciting milestone for our team at Amazon: [Health AI](https://amazon.com/health-ai) is now rolling out to millions of Amazon Prime members.
 
 Over the past few months, our team has been heads-down building something we believe can fundamentally change how people manage their health. Health AI is a personal AI-powered health assistant designed to help customers understand their health information, navigate care options, and connect directly with services such as One Medical.
 
@@ -31,3 +31,7 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - *TechRepublic* — [“Amazon Expands Health AI to Its Retail App, Offering Prime Members Free 24/7 Virtual Care”](https://www.techrepublic.com/article/news-amazon-health-ai-app-site/) (2026-03-10)
 - *CNET* — [“Amazon Expands Health AI Access for Virtual Health Care”](https://www.cnet.com/tech/amazon-expands-health-ai-access-for-amazon-users-looking-to-receive-virtual-healthcare/) (2026-03-11)
 - *HealthcareDive* — [“Amazon expands access to health-focused AI assistant”](https://www.healthcaredive.com/news/amazon-expands-access-health-ai-assistant-chatbot/814395/) (2026-03-11)
+
+## The Team
+
+You don’t get from 0 to 1 alone. It’s been a privilege to build this alongside such a talented team.
