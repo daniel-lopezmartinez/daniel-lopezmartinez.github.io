@@ -17,4 +17,4 @@ In the presentation, I described early findings showing how quantitative imaging
 You can see some photos taken during my internship at [CRUK Internship (flickr)](https://www.flickr.com/photos/dlmocdm/albums/72157630495144302/with/7535116694).
 
 
-<img src='/images/blog/2011-09-13-cruk.jpg' width="700" height="400">
+<img src='/images/blog/2011-09-13-cruk.jpg' width="700" height="400" alt="Cancer Research UK Cambridge Research Institute">
