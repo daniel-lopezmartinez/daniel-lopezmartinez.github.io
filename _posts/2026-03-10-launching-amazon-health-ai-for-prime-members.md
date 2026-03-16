@@ -34,6 +34,7 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - TechTarget: [Amazon expands Health AI chatbot to all Prime members](https://www.techtarget.com/patientengagement/news/366639961/Amazon-expands-Health-AI-chatbot-to-all-Prime-members)
 - Gadget Review: [Amazon Launches AI Health Assistant for Everyday Medical Questions](https://www.gadgetreview.com/amazon-launches-ai-health-assistant-for-everyday-medical-questions)
 - Seeking Alpha: [Amazon health AI assistant launched on website and app](https://seekingalpha.com/news/4562859-amazon-health-ai-launched-website-and-app)
+- Fierce Healthcare: [Amazon launches health AI agent on its website, expands free virtual care to 200M Prime members](https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-launches-health-ai-assistant-its-website-expands-free-virtual-care)
 
 ## The Team
 
