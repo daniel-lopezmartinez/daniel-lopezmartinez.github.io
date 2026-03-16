@@ -37,6 +37,7 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - Fierce Healthcare: [Amazon launches health AI agent on its website, expands free virtual care to 200M Prime members](https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-launches-health-ai-assistant-its-website-expands-free-virtual-care)
 - PYMNTS: [Amazon Scales Health AI Assistant to All US Customers](https://www.pymnts.com/amazon/2026/amazon-scales-health-ai-assistant-to-all-us-customers/)
 - Entrepreneur: [Amazon Wants to Be Your First Stop for Health Questions —Here’s What Its New AI Assistant Does](https://www.entrepreneur.com/business-news/amazon-wants-to-be-your-first-stop-for-health-questions)
+- Digital Watch Observatory: [Amazon launches Health AI to assist with medical queries](https://dig.watch/updates/amazon-launches-health-ai-to-assist-with-medical-queries)
 
 ## The Team
 
