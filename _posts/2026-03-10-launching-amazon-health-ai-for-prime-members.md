@@ -35,6 +35,8 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 - Gadget Review: [Amazon Launches AI Health Assistant for Everyday Medical Questions](https://www.gadgetreview.com/amazon-launches-ai-health-assistant-for-everyday-medical-questions)
 - Seeking Alpha: [Amazon health AI assistant launched on website and app](https://seekingalpha.com/news/4562859-amazon-health-ai-launched-website-and-app)
 - Fierce Healthcare: [Amazon launches health AI agent on its website, expands free virtual care to 200M Prime members](https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-launches-health-ai-assistant-its-website-expands-free-virtual-care)
+- PYMNTS: [Amazon Scales Health AI Assistant to All US Customers](https://www.pymnts.com/amazon/2026/amazon-scales-health-ai-assistant-to-all-us-customers/)
+- Entrepreneur: [Amazon Wants to Be Your First Stop for Health Questions —Here’s What Its New AI Assistant Does](https://www.entrepreneur.com/business-news/amazon-wants-to-be-your-first-stop-for-health-questions)
 
 ## The Team
 
