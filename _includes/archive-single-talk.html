@@ -39,10 +39,14 @@
     {% if post.venue %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p>
     {% endif %}
-    {% if post.summary %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.summary | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% if post.description %}
+      <div class="archive__item-summary" itemprop="description">
+        {{ post.description | markdownify }}
+      </div>
     {% elsif post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <div class="archive__item-summary" itemprop="description">
+        {{ post.excerpt | markdownify }}
+      </div>
     {% endif %}
   </article>
 </div>

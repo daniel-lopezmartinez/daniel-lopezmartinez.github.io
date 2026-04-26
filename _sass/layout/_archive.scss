@@ -66,6 +66,18 @@
   }
 }
 
+// Short listing blurb for talk (and other archive items when needed).
+// Kept at normal paragraph size so the talks index page doesn't look “compressed”.
+.archive__item-summary {
+  margin-top: 0;
+  font-size: $type-size-5;
+
+  p {
+    margin: 0 0 0.5em;
+    font-size: inherit;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
