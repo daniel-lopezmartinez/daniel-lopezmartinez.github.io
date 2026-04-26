@@ -6,6 +6,7 @@ permalink: /talks/2026-04-24-talk-future-healthcare-ai
 venue: Amazon Health Services Meeting
 date: 2026-04-24
 location: "Seattle, WA, USA"
+summary: "Perspective on why healthcare AI is at an inflection point, spanning regulation, market dynamics, and research directions for evaluation and agentic systems."
 ---
 
 I gave a presentation at the Amazon Health Services meeting on the future of healthcare AI.

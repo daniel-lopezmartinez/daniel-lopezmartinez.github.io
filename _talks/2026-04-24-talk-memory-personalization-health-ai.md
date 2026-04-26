@@ -6,6 +6,7 @@ permalink: /talks/2026-04-24-talk-memory-personalization-health-ai
 venue: Amazon Health Services Meeting
 date: 2026-04-24
 location: "Seattle, WA, USA"
+summary: "Overview of practical approaches to memory and personalization for health AI systems, including long-term context, retrieval, and longitudinal user experiences."
 ---
 
 I gave a presentation at the Amazon Health Services meeting on memory and personalization in health AI.
