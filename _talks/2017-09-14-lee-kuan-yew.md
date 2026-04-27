@@ -6,6 +6,7 @@ permalink: /talks/2017-09-14-lee-kuan-yew
 venue: "Lee Kuan Yew Global Business Plan Competition"
 date: 2017-09-14
 location: "Singapore"
+image: /images/blog/2017-09-14-lee-kuan-yew.jpeg
 ---
 
 I presented our startup concept, _ZenAuto_, at the [Lee Kuan Yew Global Business Plan Competition (LKYGBPC)](https://lkygbpc.smu.edu.sg/past-editions/2017) in Singapore, one of Asia’s leading deep-tech entrepreneurship challenges. The competition brings together next-generation founders from around the world to showcase innovations with the potential to reshape cities, industries, and society. Our work was selected for presentation on the competition stage alongside teams from top global universities.
@@ -16,4 +17,4 @@ The presentation highlighted the technical approach underlying ZenAuto, includin
 
 ZenAuto represented an early exploration of how affective computing, computer vision, and urban analytics could converge to create safer, more human-centered transportation experiences in rapidly growing cities such as Singapore.
 
-<img src='/images/blog/2017-09-14-lee-kuan-yew.jpeg' width="700" height="400">
+<img src='/images/blog/2017-09-14-lee-kuan-yew.jpeg' width="700" height="400" alt="Daniel Lopez-Martinez in the Lee Kuan Yew Global Business Plan Competition in Singapore, about to receive the prize.">
