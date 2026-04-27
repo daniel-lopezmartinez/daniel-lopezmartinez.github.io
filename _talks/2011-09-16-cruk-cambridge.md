@@ -6,6 +6,7 @@ permalink: /talks/2011-09-16-cruk-cambridge
 venue: "Cancer Research UK Cambridge Research Institute, University of Cambridge"
 date: 2011-09-16
 location: "Cambridge, UK"
+image: /images/blog/2011-09-13-cruk.jpg
 ---
 
 I delivered an oral presentation at the [Cancer Research UK Cambridge Research Institute (CRI)](https://www.cruk.cam.ac.uk/) summarizing the results of my summer research internship in the laboratory of [Professor John Griffiths](https://crukcambridgecentre.org.uk/users/griffiths) at the University of Cambridge. The project focused on evaluating advanced magnetic resonance imaging methods for the early detection of brain metastases in small cell lung cancer (SCLC).
