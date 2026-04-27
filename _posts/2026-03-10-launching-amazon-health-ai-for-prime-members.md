@@ -3,6 +3,7 @@ title: 'Launching Amazon Health AI for Prime Members'
 date: 2026-03-10
 permalink: /posts/2026/03/2026-03-10-launching-amazon-health-ai-for-prime-members/
 description: "After months of work, Health AI is launching on Amazon.com and in the Amazon app, giving customers a personal AI health assistant to understand their health information, explore care options, and connect directly to care."
+image: /images/blog/2026-03-11-amazon-ahs-team-celebration.jpeg
 tags:
   - amazon
   - healthcare

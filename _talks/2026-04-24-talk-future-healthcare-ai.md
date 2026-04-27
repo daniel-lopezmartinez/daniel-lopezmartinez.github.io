@@ -7,6 +7,7 @@ venue: Amazon Health Services Meeting
 date: 2026-04-24
 location: "Seattle, WA, USA"
 description: "Perspective on why healthcare AI is at an inflection point, spanning regulation, market dynamics, and research directions for evaluation and agentic systems."
+image: /images/blog/2026-04-24-ahs_health_ai_inflection_point.jpg
 ---
 
 I gave a presentation at the Amazon Health Services meeting on the future of healthcare AI.
