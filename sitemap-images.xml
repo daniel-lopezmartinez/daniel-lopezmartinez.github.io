@@ -1,0 +1,44 @@
+---
+layout: null
+permalink: /sitemap-images.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  {%- comment -%}
+    Image sitemap based on each document's primary image.
+
+    We intentionally avoid parsing HTML/markdown content because GitHub Pages
+    runs Jekyll in --safe mode (no custom plugins).
+
+    If you want more images indexed, add `image: /images/...` to front matter.
+  {%- endcomment -%}
+
+  {%- assign docs = site.pages | concat: site.posts -%}
+
+  {%- for collection in site.collections -%}
+    {%- unless collection.output == false or collection.label == "posts" -%}
+      {%- assign docs = docs | concat: collection.docs -%}
+    {%- endunless -%}
+  {%- endfor -%}
+
+  {%- for doc in docs -%}
+    {%- assign img = doc.header.image | default: doc.header.overlay_image | default: doc.image -%}
+    {%- if img -%}
+      <url>
+        <loc>{{ doc.url | absolute_url }}</loc>
+        <image:image>
+          <image:loc>
+            {%- if img contains "://" -%}
+              {{ img }}
+            {%- else -%}
+              {{ img | absolute_url }}
+            {%- endif -%}
+          </image:loc>
+        </image:image>
+      </url>
+    {%- endif -%}
+  {%- endfor -%}
+</urlset>
