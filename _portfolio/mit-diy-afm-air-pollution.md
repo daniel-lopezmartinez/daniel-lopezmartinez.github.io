@@ -4,6 +4,15 @@ excerpt: "A low-cost, citizen-science platform for measuring and analyzing air p
 collection: portfolio
 category: mit
 order: 4
+image: /images/blog/2015-08-22-lego2nano.jpg
+images:
+  - /images/blog/2015-08-22-lego2nano.jpg
+  - /images/blog/2015-08-24-lego2nano.jpg
+  - /images/blog/2015-08-20-lego2nano.jpg
+  - /images/blog/2015-08-18-lego2nano.jpg
+  - /images/blog/2015-08-29-lego2nano.jpg
+  - /images/blog/2015-08-25-lego2nano.jpg
+  - /images/blog/2015-08-30-lego2nano-afm.jpg
 ---
 
 This project explored how low-cost scientific instrumentation, citizen science, and human computation can be combined to enable scalable and accessible air pollution measurement at nanoscale resolution.
@@ -32,16 +41,16 @@ The project demonstrated how human computation can complement low-cost sensing, 
 
 ### Pictures
 
-<img src='/images/blog/2015-08-22-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-22-lego2nano.jpg' width="700" height="400" alt="Daniel Lopez-Martinez (leftmost) together with all the other participants of the LEGO2NANO Summer School at Tsinghua University in Beijing, China, in 2015.">
 
-<img src='/images/blog/2015-08-24-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-24-lego2nano.jpg' width="700" height="400" alt="Daniel Lopez-Martinez together with other participants of the LEGO2NANO Summer School at the Shenzhen Open Innovation Lab in 2015.">
 
-<img src='/images/blog/2015-08-20-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-20-lego2nano.jpg' width="700" height="400" alt="The DIY atomic force microscope built during the LEGO2NANO Summer School in 2015.">
 
-<img src='/images/blog/2015-08-18-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-18-lego2nano.jpg' width="700" height="400" alt="Daniel Lopez-Martinez working on his laptop in Shenzhen, China, during the LEGO2NANO Summer School in 2015.">
 
-<img src='/images/blog/2015-08-29-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-29-lego2nano.jpg' width="700" height="400" alt="A MacBook running the atomic force microscope (AFM) scan software during the LEGO2NANO Summer School in 2015.">
 
-<img src='/images/blog/2015-08-25-lego2nano.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-25-lego2nano.jpg' width="700" height="400" alt="Daniel Lopez-Martinez and other LEGO2NANO participants at the Shenzhen Open Innovation Lab in 2015.">
 
-<img src='/images/blog/2015-08-30-lego2nano-afm.jpg' width="700" height="400">
+<img src='/images/blog/2015-08-30-lego2nano-afm.jpg' width="700" height="400" alt="An atomic force microscope (AFM) scan image of air pollution particles captured on a DVD disk substrate, taken during the LEGO2NANO Summer School in Shenzhen, China, in 2015.">
