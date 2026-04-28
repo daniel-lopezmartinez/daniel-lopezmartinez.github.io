@@ -4,6 +4,12 @@ excerpt: "Real-time facial emotion recognition integrated with expressive social
 collection: portfolio
 category: mit
 order: 1
+image: /images/blog/2017-03-17-wohasu.jpg
+images:
+  - /images/blog/2017-03-17-wohasu.jpg
+  - /images/blog/2017-03-18-wohasu_1.jpg
+  - /images/blog/2017-03-18-wohasu_2.jpg
+  - /images/blog/2017-03-17-wohasu-robot.jpg
 ---
 
 ### Overview
@@ -45,10 +51,10 @@ This project was demonstrated live at the [World Happiness Summit](https://world
 
 #### Photos
 
-<img src='/images/blog/2017-03-17-wohasu.jpg' alt='Daniel Lopez-Martinez and Javier Hernandez showing the MIT Happy Robot' width="700" height="400">
+<img src='/images/blog/2017-03-17-wohasu.jpg' alt='MIT Media Lab researchers Daniel Lopez-Martinez and Javier Hernandez showing the MIT Happy Robot at the World Happiness Summit in Miami, March 2017.' width="700" height="400">
 
-<img src='/images/blog/2017-03-18-wohasu_1.jpg' alt='Daniel Lopez-Martinez and Ognjen (Oggie) Rudovic showing the MIT Happy Robot' width="700" height="400">
+<img src='/images/blog/2017-03-18-wohasu_1.jpg' alt='MIT Media Lab researchers Daniel Lopez-Martinez and Ognjen (Oggie) Rudovic showing the MIT Happy Robot at the World Happiness Summit in Miami, March 2017.' width="700" height="400">
 
-<img src='/images/blog/2017-03-18-wohasu_2.jpg' width="700" height="400">
+<img src='/images/blog/2017-03-18-wohasu_2.jpg' alt='MIT Media Lab researchers Ognjen Rudovic, Daniel Lopez-Martinez, and Javier Hernandez at the World Happiness Summit in Miami, March 2017, showing the MIT Happy Robot.' width="700" height="400">
 
-<img src='/images/blog/2017-03-17-wohasu-robot.jpg' width="700" height="400">
+<img src='/images/blog/2017-03-17-wohasu-robot.jpg' alt='The MIT Happy Robot dancing at the World Happiness Summit in Miami, March 2017, with a wall projection in the background showing the MIT Happy Robot interface with smile recognition.' width="700" height="400">
