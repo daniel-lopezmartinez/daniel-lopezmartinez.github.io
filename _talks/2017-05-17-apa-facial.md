@@ -6,6 +6,7 @@ permalink: /talks/2017-05-17-apa-facial
 venue: "American Pain Society Annual Meeting"
 date: 2017-05-17
 location: "Pittsburgh, PA, USA"
+image: /images/blog/2017-05-17-pittsburgh-aps.jpeg
 ---
 
 I presented a poster at the 2017 Annual Meeting of the [American Pain Society](https://americanpainsociety.org/) in Pittsburgh, describing collaborative work between the MIT Affective Computing group and MedImmune on automatic pain detection using computer vision and machine learning.  
@@ -16,4 +17,4 @@ Our method was trained using the publicly available [UNBC-McMaster Shoulder Pain
 
 The poster presented results demonstrating the feasibility of continuous, automated pain quantification in clinical research settings, highlighting the potential for objective, scalable pain monitoring in both clinical trials and real-world treatment environments.
 
-<img src='/images/blog/2017-05-17-pittsburgh-aps.jpeg' width="400" height="700">
+<img src='/images/blog/2017-05-17-pittsburgh-aps.jpeg' alt='Daniel Lopez-Martinez next to his poster at the American Pain Society Annual Meeting in Pittsburgh, PA, 2017. The poster showcases his work on automatic detection of nociceptive stimuli and pain intensity from facial expressions.' width="400" height="700">
