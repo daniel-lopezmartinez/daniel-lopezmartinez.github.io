@@ -1,7 +1,7 @@
 ---
 title: "The Evaluation Stack for Health AI"
 date: 2026-03-15
-permalink: /posts/2026/03/2026-03-15-health-ai-evals/
+permalink: /posts/2026/03/2026-03-15-health-ai-evals
 description: "Why medical knowledge benchmarks aren’t enough for real-world health assistants, and what an evaluation stack should look like as Health AI moves from static vignettes to conversational, action-taking systems."
 tags:
   - health-ai

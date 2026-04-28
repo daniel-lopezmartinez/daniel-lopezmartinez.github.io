@@ -1,7 +1,7 @@
 ---
 title: 'From Stochastic Parrots to Software as a Doctor'
 date: 2025-12-07
-permalink: /posts/2025/12/2025-12-07-llms-as-a-device/
+permalink: /posts/2025/12/2025-12-07-llms-as-a-device
 tags:
   - science
 ---
