@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+images:
+  - /images/profile-seattle.jpg
+  - /images/profile-kilimanjaro.jpeg
 ---
 
 

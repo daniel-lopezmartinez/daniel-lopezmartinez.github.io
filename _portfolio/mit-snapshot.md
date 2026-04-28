@@ -4,6 +4,7 @@ excerpt: "A large-scale NIH-funded study combining multimodal sensing and machin
 collection: portfolio
 category: mit
 order: 3
+image: /images/blog/snapshot.jpg
 ---
 
 Link: [SNAPSHOT Study](https://www.media.mit.edu/projects/snapshot-study/overview/)

@@ -4,6 +4,7 @@ excerpt: "A clinically interpretable deep reinforcement learning system for pers
 collection: portfolio
 category: mit
 order: 6
+image: /images/blog/opioid_rl_model.png
 ---
 
 ### Overview

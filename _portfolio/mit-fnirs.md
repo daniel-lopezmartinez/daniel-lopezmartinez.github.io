@@ -4,6 +4,7 @@ excerpt: "Personalized machine learning on wearable neuroimaging signals to obje
 collection: portfolio
 category: mit
 order: 5
+image: /images/blog/2019-09-12-brain-fnirs.jpg
 ---
 
 
