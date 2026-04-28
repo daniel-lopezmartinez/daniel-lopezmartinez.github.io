@@ -6,6 +6,11 @@ permalink: /talks/2016-09-28-white-house
 venue: "White House Open Data Innovation Summit"
 date: 2016-09-28
 location: "Washington, D.C., USA"
+image: /images/blog/2016-09-28-white-house-open-data-summit.jpg
+images:
+  - /images/blog/2016-09-28-white-house-open-data-summit-venue.jpg
+  - /images/blog/2016-09-28-white-house-open-data-summit.jpg
+  - /images/blog/2016-09-28-white-house-open-data-summit-team.jpg
 ---
 
 I presented work at the [White House Open Data Innovation Summit](https://obamawhitehouse.archives.gov/node/357216) in Washington, D.C., where our team was invited to present our project developed during a Boston-based health hackathon. Our project, _LymeDot_, explored how mobile technology and open data could help patients with Lyme disease track symptoms over time, support clinical decision-making, and empower individuals managing complex, chronic conditions.
@@ -14,8 +19,8 @@ Lyme disease patients frequently report fluctuating, nonspecific symptoms and un
 
 At the Summit, we discussed how open data ecosystems and patient-generated health data could improve understanding of chronic illnesses like Lyme disease, and how mobile tools can reduce the documentation burden on patients who often experience fatigue and cognitive impairment. The presentation was part of a broader national conversation about using open data, AI, and user-centered design to advance health, wellness, and patient empowerment.
 
-<img src='/images/blog/2016-09-28-white-house-open-data-summit-venue.jpg' width="700" height="400">
+<img src='/images/blog/2016-09-28-white-house-open-data-summit-venue.jpg' alt='The venue of the White House Open Data Innovation Summit in Washington, D.C., 2016.' width="700" height="400">
 
-<img src='/images/blog/2016-09-28-white-house-open-data-summit.jpg' width="700" height="400">
+<img src='/images/blog/2016-09-28-white-house-open-data-summit.jpg' alt='Daniel Lopez-Martinez at the White House Open Data Innovation Summit in Washington, D.C., 2016.' width="700" height="400">
 
-<img src='/images/blog/2016-09-28-white-house-open-data-summit-team.jpg' width="700" height="400">
+<img src='/images/blog/2016-09-28-white-house-open-data-summit-team.jpg' alt='Daniel Lopez-Martinez holding an award together with his team at the White House Open Data Innovation Summit in Washington, D.C., 2016.' width="700" height="400">
