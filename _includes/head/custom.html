@@ -14,4 +14,35 @@
 <link rel="icon" href="/images/favicon-circle.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Person structured data (JSON-LD) for homepage -->
+{% if page.permalink == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Daniel Lopez-Martinez",
+  "url": "https://daniellopezmartinez.com",
+  "jobTitle": "Senior Applied Scientist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Amazon"
+  },
+  "alumniOf": [
+    { "@type": "EducationalOrganization", "name": "Massachusetts Institute of Technology" },
+    { "@type": "EducationalOrganization", "name": "Harvard University" },
+    { "@type": "EducationalOrganization", "name": "Imperial College London" }
+  ],
+  "image": "https://daniellopezmartinez.com/images/profile-seattle.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/daniel-lopezmartinez",
+    "https://scholar.google.com/citations?hl=en&user=0abBQg8AAAAJ",
+    "https://github.com/daniel-lopezmartinez",
+    "https://www.instagram.com/dlmocdm",
+    "https://www.media.mit.edu/people/dlmocdm/overview/",
+    "https://www.amazon.science/author/daniel-lopez-martinez"
+  ]
+}
+</script>
+{% endif %}
+
 <!-- end custom head snippets -->
