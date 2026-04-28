@@ -8,12 +8,14 @@ permalink: /sitemap-images.xml
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
   {%- comment -%}
-    Image sitemap based on each document's primary image.
+    Image sitemap supporting both a single image and an array of images per page.
+
+    - Single image: add `image: /images/...` to front matter
+    - Multiple images: add `images:` array to front matter (the `image:` field is
+      still used as a fallback for pages that only have one image)
 
     We intentionally avoid parsing HTML/markdown content because GitHub Pages
     runs Jekyll in --safe mode (no custom plugins).
-
-    If you want more images indexed, add `image: /images/...` to front matter.
   {%- endcomment -%}
 
   {%- assign docs = site.pages | concat: site.posts -%}
@@ -25,16 +27,31 @@ permalink: /sitemap-images.xml
   {%- endfor -%}
 
   {%- for doc in docs -%}
-    {%- assign img = doc.header.image | default: doc.header.overlay_image | default: doc.image -%}
-    {%- if img -%}
+    {%- assign primary_img = doc.header.image | default: doc.header.overlay_image | default: doc.image -%}
+    {%- if doc.images -%}
+      <url>
+        <loc>{{ doc.url | absolute_url }}</loc>
+        {%- for img_url in doc.images -%}
+        <image:image>
+          <image:loc>
+            {%- if img_url contains "://" -%}
+              {{ img_url }}
+            {%- else -%}
+              {{ img_url | absolute_url }}
+            {%- endif -%}
+          </image:loc>
+        </image:image>
+        {%- endfor -%}
+      </url>
+    {%- elsif primary_img -%}
       <url>
         <loc>{{ doc.url | absolute_url }}</loc>
         <image:image>
           <image:loc>
-            {%- if img contains "://" -%}
-              {{ img }}
+            {%- if primary_img contains "://" -%}
+              {{ primary_img }}
             {%- else -%}
-              {{ img | absolute_url }}
+              {{ primary_img | absolute_url }}
             {%- endif -%}
           </image:loc>
         </image:image>
