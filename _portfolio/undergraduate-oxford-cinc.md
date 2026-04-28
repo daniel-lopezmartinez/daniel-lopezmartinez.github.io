@@ -4,6 +4,10 @@ excerpt: "Automated assessment of ECG signal quality using signal quality indice
 collection: portfolio
 category: undergraduate
 order: 2
+image: /images/blog/2011-09-19-gari-clifford-daniel.jpg
+images:
+  - /images/blog/2011-09-19-gari-clifford-daniel.jpg
+  - /images/blog/2011-09-19-cinc-presentation.jpg
 ---
 
 ### Overview
@@ -51,6 +55,6 @@ More broadly, the work contributed to early foundations of real-time physiologic
 
 ### Photos
 
-<img src='/images/blog/2011-09-19-gari-clifford-daniel.jpg' width="700" height="400">
+<img src='/images/blog/2011-09-19-gari-clifford-daniel.jpg' width="700" height="400" alt="Daniel Lopez-Martinez (left) and Prof Gari Clifford (right) in Hangzhou, China at the Computing in Cardiology Conference in 2011.">
 
-<img src='/images/blog/2011-09-19-cinc-presentation.jpg' width="700" height="400">
+<img src='/images/blog/2011-09-19-cinc-presentation.jpg' width="700" height="400" alt="Prof Gari Clifford giving a talk at the Computing in Cardiology Conference in 2011.">
