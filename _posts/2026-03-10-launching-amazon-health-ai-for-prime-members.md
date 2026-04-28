@@ -45,4 +45,4 @@ I’m humbled by the reception so far. Below is a running list of news articles 
 
 Moving from 0 to 1 is a team sport. To celebrate the milestone, several of our California-based team members traded their keyboards for clubs at the driving range after months of hard work.
 
-<img src='/images/blog/2026-03-11-amazon-ahs-team-celebration.jpeg' width="700" height="400" alt="Members of the Amazon Health AI team posing together at a golf driving range in California to celebrate the launch of Amazon Health AI for Prime Members.">
+<img src='/images/blog/2026-03-11-amazon-ahs-team-celebration.jpeg' width="700" height="400" alt="Daniel Lopez-Martinez and members of the Amazon Health AI team posing together at a golf driving range in California to celebrate the launch of Amazon Health AI for Prime Members.">
