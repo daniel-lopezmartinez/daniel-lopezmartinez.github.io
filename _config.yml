@@ -148,9 +148,14 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Daniel Lopez-Martinez
+  links:
+    - "https://www.linkedin.com/in/daniel-lopezmartinez"
+    - "https://scholar.google.com/citations?hl=en&user=0abBQg8AAAAJ"
+    - "https://github.com/daniel-lopezmartinez"
+    - "https://www.instagram.com/dlmocdm"
+    - "https://www.flickr.com/people/dlmocdm"
 
 
 # Analytics
