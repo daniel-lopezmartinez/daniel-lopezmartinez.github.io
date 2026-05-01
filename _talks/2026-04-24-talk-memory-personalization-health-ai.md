@@ -14,4 +14,4 @@ I gave a presentation at the Amazon Health Services meeting on memory and person
 
 The talk discussed how health AI systems can support more personalized and continuous user experiences by retaining and retrieving relevant context across interactions. At a high level, I covered the motivation for long-term context in healthcare, different forms of memory such as explicit user-provided memories and conversational context, and future opportunities for building more structured, longitudinal, and context-aware memory systems.
 
-<img src='/images/blog/2026-04-24-ahs_memory_personalization.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting Memory and Personalization in Health AI at the Amazon Health Services Leadership Meeting in Seattle.">
+<img src='/images/blog/2026-04-24-ahs_memory_personalization.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting and discussing his work on Memory and Personalization in Health AI at the Amazon Health Services Leadership Meeting in Seattle.">
