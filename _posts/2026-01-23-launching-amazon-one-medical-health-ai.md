@@ -11,7 +11,7 @@ tags:
   - one-medical
 ---
 
-Today we launched [Amazon One Medical Health AI](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant) — an agentic AI-powered health assistant that provides 24/7 health guidance and takes action to connect customers to their provider, book appointments, read labs, and manage medications.
+This week we launched [Amazon One Medical Health AI](https://www.aboutamazon.com/news/retail/one-medical-ai-health-assistant) — an agentic AI-powered health assistant that provides 24/7 health guidance and takes action to connect customers to their provider, book appointments, read labs, and manage medications.
 
 This is a product our team has been building from the ground up, and seeing it go live is a milestone I'm incredibly proud of. Health AI represents a new kind of healthcare experience: one that is simpler, more personalized, and more actionable than what has existed before.
 
