@@ -11,7 +11,7 @@ images:
   - /images/blog/2016-10-07-drug-development-group.jpg
 ---
 
-I delivered a talk at the MIT Media Lab during an industry symposium on how connectivity, wearable sensing, and data-driven approaches are transforming the drug development pipeline — from discovery through clinical trials and post-market surveillance.
+I delivered a talk at the [MIT Media Lab](https://www.media.mit.edu/) during an industry symposium on how connectivity, wearable sensing, and data-driven approaches are transforming the drug development pipeline — from discovery through clinical trials and post-market surveillance.
 
 <img src='/images/blog/2016-10-07-drug-development-talk.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting on drug development in the connected world at the MIT Media Lab Industry Symposium, with the presentation slide visible behind him.">
 
