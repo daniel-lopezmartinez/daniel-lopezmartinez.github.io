@@ -9,6 +9,6 @@ location: "Seattle, WA, USA"
 image: /images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg
 ---
 
-I delivered a talk at Amazon's _Image and Video Generation Workshop 2025_, presenting our work at Amazon Health on building AI-enabled virtual care experiences using digital avatar assistants.
+I delivered a talk at Amazon's _Image and Video Generation Workshop 2025_ in Seattle, presenting our work at Amazon Health on building AI-enabled virtual care experiences using digital avatar assistants.
 
-<img src='/images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting on AI-enabled virtual care and digital avatar assistants at the Amazon Image and Video Generation Workshop">
+<img src='/images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
