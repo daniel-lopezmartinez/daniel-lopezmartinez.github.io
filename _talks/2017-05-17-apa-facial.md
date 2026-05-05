@@ -17,4 +17,4 @@ Our method was trained using the publicly available [UNBC-McMaster Shoulder Pain
 
 The poster presented results demonstrating the feasibility of continuous, automated pain quantification in clinical research settings, highlighting the potential for objective, scalable pain monitoring in both clinical trials and real-world treatment environments.
 
-<img src='/images/blog/2017-05-17-pittsburgh-aps.jpeg' alt='Daniel Lopez-Martinez next to his poster at the American Pain Society Annual Meeting in Pittsburgh, PA, 2017. The poster showcases his work on automatic detection of nociceptive stimuli and pain intensity from facial expressions.' width="400" height="700">
+<img src='/images/blog/2017-05-17-pittsburgh-aps.jpeg' alt='Daniel Lopez-Martinez next to his poster on automatic detection of nociceptive stimuli and pain intensity from facial expressions at the American Pain Society Annual Meeting in Pittsburgh, PA, 2017. The work was conducted at MIT under the supervision of Rosalind Picard and in collaboration with MedImmune.' width="400" height="700">
