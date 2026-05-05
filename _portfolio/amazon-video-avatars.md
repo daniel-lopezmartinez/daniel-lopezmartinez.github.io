@@ -4,6 +4,7 @@ excerpt: "Applied research, design and prototyping of real-time multimodal video
 collection: portfolio
 category: amazon
 order: 4
+image: /images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg
 ---
 
 
@@ -33,3 +34,10 @@ Within this framework, I evaluated multiple approaches for avatar representation
 - 3D Gaussian splatting–based representations as a potential path toward more flexible, view-consistent, and lower-latency avatar rendering compared to traditional mesh- or video-only approaches
 
 These explorations informed architectural trade-offs around latency, realism, controllability, and deployment complexity, and helped shape longer-term thinking about how embodied AI systems might evolve beyond static video avatars toward more dynamic and generalizable visual representations.
+
+
+### Talks
+
+I presented this work at the [Amazon Image and Video Generation Workshop 2025](/talks/2025-06-26-amazon-image-video-gen).
+
+<img src='/images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
