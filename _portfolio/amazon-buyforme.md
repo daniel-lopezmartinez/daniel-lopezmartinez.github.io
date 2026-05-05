@@ -18,6 +18,12 @@ As a founding scientist behind _Buy For Me_, I contributed from early problem fr
 
 _Buy For Me_ has been covered by [Forbes](https://www.forbes.com/sites/kirimasters/2025/04/08/amazon-buy-for-me-is-the-latest-entrant-in-the-ai-shopping-agent-race/), [Engadget](https://www.engadget.com/ai/amazons-buy-for-me-ai-will-purchase-stuff-from-third-party-websites-123036361.html), [The Verge](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites), [9to5mac](https://9to5mac.com/2025/04/03/amazons-new-buy-for-me-feature-is-a-wild-ai-innovation/) and others.
 
+### Talks
+
+I presented this work at the [Amazon NAS GenAI Learning Series](/talks/2025-09-25-amazon-nas-genai-series).
+
+<img src='/images/blog/2025-09-25-genai-learning-series.jpg' width="700" height="400" alt="Daniel Lopez-Martinez at a podium presenting on agentic AI systems at the Amazon North America Stores GenAI Learning Series. The slide behind him shows his work on Buy for Me, an agentic computer use model for shopping.">
+
 ### Patents
 
 - [Systems for automated interaction with user interfaces](/publication/2025-agentic-ui-automation-patent) (patent application)
