@@ -6,7 +6,7 @@ permalink: /talks/2025-06-26-amazon-image-video-gen
 venue: "Amazon Image & Video Generation Workshop 2025"
 date: 2025-06-26
 location: "Seattle, WA, USA"
-image: /images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg
+image: /images/blog/2025-06-26-amazon-ai-digital-avatars.jpg
 ---
 
 I delivered a talk at Amazon's _Image and Video Generation Workshop 2025_ in Seattle, presenting our work at Amazon Health on building AI-enabled virtual care experiences using LLM-powered digital avatar assistants.
@@ -15,4 +15,4 @@ The talk covered the design and architecture of real-time, multimodal video avat
 
 This work is described in more detail in the [Video Avatars & Multimodal Experiences](/portfolio/amazon-video-avatars/) portfolio entry.
 
-<img src='/images/blog/2025-06-26-daniel-lopez-martinez-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
+<img src='/images/blog/2025-06-26-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
