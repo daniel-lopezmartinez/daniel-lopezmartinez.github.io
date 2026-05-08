@@ -18,7 +18,7 @@ In 2014, I was awarded the **La Caixa Fellowship** (*Beca de la Obra Social "la 
 
 The [La Caixa Fellowship](https://fundacionlacaixa.org/en/fellowships) is one of Spain's most prestigious and competitive scholarship programmes, funding outstanding Spanish students to pursue graduate studies at leading universities worldwide. The programme is managed by the [Fundación "la Caixa"](https://en.wikipedia.org/wiki/Fundaci%C3%B3n_%22la_Caixa%22) and has supported thousands of scholars since its creation.
 
-The award ceremony was attended by José Ignacio Wert (Minister of Education), Isidro Fainé (President of la Caixa and the Fundación la Caixa), Juan María Nin (Director General of la Caixa), Jaime Lanaspa (Director General of the Fundación la Caixa), Jaume Giró (Deputy Director General of the Fundación la Caixa), and Elisa Durán (Deputy Director General of the Fundación la Caixa).
+The award ceremony was presided by [King Juan Carlos I of Spain](https://en.wikipedia.org/wiki/Juan_Carlos_I), who personally awarded the scholarship to each fellow.
 
 <img src='/images/blog/2014-06-06-la-caixa-scholarship.webp' width="700" alt="Daniel Lopez-Martinez receiving the La Caixa Fellowship from King Juan Carlos I of Spain at the award ceremony in Madrid, 2014. Spanish politicians José Ignacio Wert and Joan Maria Nin Génova are also present.">
 
