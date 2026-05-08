@@ -20,7 +20,7 @@ The [La Caixa Fellowship](https://fundacionlacaixa.org/en/fellowships) is one of
 
 The award ceremony was presided by [King Juan Carlos I of Spain](https://en.wikipedia.org/wiki/Juan_Carlos_I), who personally awarded the scholarship to each fellow.
 
-<img src='/images/blog/2014-06-06-la-caixa-scholarship.webp' width="700" alt="Daniel Lopez-Martinez receiving the La Caixa Fellowship from King Juan Carlos I of Spain at the award ceremony in Madrid, 2014. Spanish politicians José Ignacio Wert and Joan Maria Nin Génova are also present.">
+<img src='/images/blog/2014-06-06-la-caixa-scholarship.webp' width="700" alt="Daniel Lopez-Martinez receiving the La Caixa Fellowship from King Juan Carlos I of Spain at the award ceremony in Madrid, 2014. José Ignacio Wert, Spanish politician and Minister of Education of Spain, is also present.">
 
 ### Media Coverage
 
