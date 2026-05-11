@@ -40,4 +40,4 @@ These explorations informed architectural trade-offs around latency, realism, co
 
 I presented this work at the [Amazon Image and Video Generation Workshop 2025](/talks/2025-06-26-amazon-image-video-gen).
 
-<img src='/images/blog/2025-06-26-amazon-ai-digital-avatars.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
+<img src='/images/blog/2025-06-26-amazon-ai-digital-avatars-talk.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
