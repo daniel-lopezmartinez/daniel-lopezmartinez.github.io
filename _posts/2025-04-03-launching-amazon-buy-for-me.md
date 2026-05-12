@@ -28,3 +28,6 @@ Read more: [Amazon's Buy for Me](https://www.aboutamazon.com/news/retail/amazon-
 
 - TechCrunch: [Amazon’s new AI agent will shop third-party sites for you](https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/)
 - Forbes: [Amazon ‘Buy For Me’ Is The Latest Entrant In The AI Shopping Agent Race](https://www.forbes.com/sites/kirimasters/2025/04/08/amazon-buy-for-me-is-the-latest-entrant-in-the-ai-shopping-agent-race/)
+- Engadget: [Amazon's 'Buy for Me' AI will purchase stuff from third-party websites](https://www.engadget.com/ai/amazons-buy-for-me-ai-will-purchase-stuff-from-third-party-websites-123036361.html)
+- The Verge: [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)
+- 9to5Mac: [Amazon’s new ‘Buy for me’ feature is a wild AI innovation](https://9to5mac.com/2025/04/03/amazons-new-buy-for-me-feature-is-a-wild-ai-innovation/)
