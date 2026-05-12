@@ -29,6 +29,8 @@ The award ceremony was presided by [King Juan Carlos I of Spain](https://en.wiki
 
 ### Media Coverage
 
+The following news articles were written about me receiving this scholarship:
+
 - [La Rioja: "La última beca"](https://www.larioja.com/la-rioja/201406/11/ultima-beca-20140611183532.html)
 - [20 Minutos: Becas de postgrado de la Obra Social "la Caixa"](https://www.20minutos.es/noticia/2160182/0/)
 - [La Vanguardia: "El estudiante riojano Daniel López recibe una beca de la Caixa para cursar estudios de postgrado"](https://www.lavanguardia.com/local/la-rioja/20140606/54408752559/el-estudiante-riojano-daniel-lopez-recibe-una-beca-de-la-caixa-para-cursar-estudios-de-postgrado.html)
