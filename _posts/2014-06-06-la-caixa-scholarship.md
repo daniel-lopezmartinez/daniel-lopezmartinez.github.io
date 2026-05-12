@@ -4,6 +4,9 @@ date: 2014-06-06
 permalink: /posts/2014/06/la-caixa-scholarship
 description: "Awarded the La Caixa Fellowship for postgraduate studies abroad, presented by King Juan Carlos I of Spain at a ceremony in Madrid."
 image: /images/blog/2014-06-06-la-caixa-scholarship.webp
+images:
+  - /images/blog/2014-06-06-la-caixa-scholarship.webp
+  - /images/blog/2014-06-06-la-caixa-scholarship-group.jpg
 tags:
   - awards
   - scholarship
@@ -21,6 +24,8 @@ The [La Caixa Fellowship](https://fundacionlacaixa.org/en/fellowships) is one of
 The award ceremony was presided by [King Juan Carlos I of Spain](https://en.wikipedia.org/wiki/Juan_Carlos_I), who personally awarded the scholarship to each fellow.
 
 <img src='/images/blog/2014-06-06-la-caixa-scholarship.webp' width="700" alt="Daniel Lopez-Martinez receiving the La Caixa Fellowship from King Juan Carlos I of Spain at the award ceremony in Madrid, 2014. José Ignacio Wert, Spanish politician and Minister of Education of Spain, is also present.">
+
+<img src='/images/blog/2014-06-06-la-caixa-scholarship-group.jpg' width="700" alt="King Juan Carlos I of Spain with all La Caixa Fellowship scholars, including Daniel Lopez-Martinez, at the award ceremony in Madrid, 2014.">
 
 ### Media Coverage
 
