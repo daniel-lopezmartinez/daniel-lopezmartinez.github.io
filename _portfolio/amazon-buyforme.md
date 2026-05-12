@@ -27,3 +27,8 @@ I presented this work at the [Amazon NAS GenAI Learning Series](/talks/2025-09-2
 ### Patents
 
 - [Systems for automated interaction with user interfaces](/publication/2025-agentic-ui-automation-patent) (patent application)
+
+### Media Coverage
+
+- TechCrunch: [Amazon’s new AI agent will shop third-party sites for you](https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/)
+- Forbes: [Amazon ‘Buy For Me’ Is The Latest Entrant In The AI Shopping Agent Race](https://www.forbes.com/sites/kirimasters/2025/04/08/amazon-buy-for-me-is-the-latest-entrant-in-the-ai-shopping-agent-race/)
