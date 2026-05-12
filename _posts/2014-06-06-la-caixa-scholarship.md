@@ -15,7 +15,7 @@ tags:
   - la-caixa
 ---
 
-In 2014, I was awarded the **La Caixa Fellowship** (*Beca de la Obra Social "la Caixa"*) to pursue a PhD at the Massachusetts Institute of Technology (MIT). The scholarship was presented by [King Juan Carlos I of Spain](https://en.wikipedia.org/wiki/Juan_Carlos_I) at a ceremony in Madrid.
+I was awarded the **La Caixa Fellowship** (*Beca de la Obra Social "la Caixa"*), 2013 edition, to pursue a PhD at the Massachusetts Institute of Technology (MIT). The scholarship was formally presented by [King Juan Carlos I of Spain](https://en.wikipedia.org/wiki/Juan_Carlos_I) at a ceremony in Madrid in June 2014.
 
 ### About the Scholarship
 
