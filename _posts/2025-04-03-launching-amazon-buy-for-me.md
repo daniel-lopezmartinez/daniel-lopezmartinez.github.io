@@ -23,3 +23,8 @@ This work also led to a [patent application](/publication/2025-agentic-ui-automa
 Read more: [Amazon's Buy for Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands)
 
 <img src='/images/blog/buyforme.jpg' width="700" height="400" alt="Amazon Buy For Me agentic shopping system interface showing an AI agent completing a purchase on a third-party brand website.">
+
+## Media Coverage
+
+- TechCrunch: [Amazon’s new AI agent will shop third-party sites for you](https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/)
+- Forbes: [Amazon ‘Buy For Me’ Is The Latest Entrant In The AI Shopping Agent Race](https://www.forbes.com/sites/kirimasters/2025/04/08/amazon-buy-for-me-is-the-latest-entrant-in-the-ai-shopping-agent-race/)
