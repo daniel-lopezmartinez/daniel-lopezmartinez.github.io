@@ -2,6 +2,7 @@
 title: 'From Stochastic Parrots to Software as a Doctor'
 date: 2025-12-07
 permalink: /posts/2025/12/2025-12-07-llms-as-a-device
+description: "How LLMs are evolving from stochastic parrots into regulated medical devices — exploring the FDA frameworks, regulatory pathways, and business implications of software as a doctor."
 tags:
   - science
 ---
