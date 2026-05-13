@@ -118,6 +118,7 @@
       "@context" : "http://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
+      {% if site.social.alternateName %}"alternateName" : {{ site.social.alternateName | jsonify }},{% endif %}
       "url" : {{ seo_url | jsonify }},
       "image" : {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}

@@ -150,6 +150,10 @@ og_description           :  # Social media default site image description
 social:
   type                   : Person
   name                   : Daniel Lopez-Martinez
+  alternateName          :
+    - "Daniel Lopez"
+    - "Daniel López-Martínez"
+    - "Daniel López"
   links:
     - "https://www.linkedin.com/in/daniel-lopezmartinez"
     - "https://scholar.google.com/citations?hl=en&user=0abBQg8AAAAJ"
