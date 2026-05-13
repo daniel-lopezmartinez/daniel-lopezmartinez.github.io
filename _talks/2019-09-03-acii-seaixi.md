@@ -6,6 +6,7 @@ permalink: /talks/2019-09-03-acii-seaixi
 venue: "International Conference on Affective Computing and Intelligent Interaction (ACII), SEAIxI Workshop"
 date: 2019-09-03
 location: "Cambridge, UK"
+image: /images/blog/2019-09-03-cambridge-SEAIXI-talk.jpg
 ---
 
 I delivered an oral presentation at the [International Conference on Affective Computing and Intelligent Interaction (ACII 2019)](https://acii-conf.net/2019/) in Cambridge, UK, during the [International Workshop on Social and Emotion AI for Industry (SEAIxI)](https://acii-conf.net/2019/workshop-information/). The presentation summarized our work on detecting real world, driving induced affective states using physiological signals, based on our [paper](https://ieeexplore.ieee.org/document/8925190) presented at the conference.
@@ -17,3 +18,5 @@ Using three public datasets of real world driving (MIT DriveDB, HciLab, and Affe
 Results showed that this personalized, multi task approach consistently outperformed standard single task models and provided interpretable insight into which signals contributed most to stress detection. In particular, the analysis highlighted the prominence of EDA features in distinguishing high versus low stress segments across datasets, in line with prior findings in affective computing and real world driving research.
 
 The presentation at ACII 2019 emphasized the implications of this approach for emotion aware automotive interfaces, including systems that adapt tone of voice, provide timely assistance, or mitigate stress and fatigue during everyday driving. By improving robustness and interpretability, the work contributed to the development of socially and emotionally intelligent in vehicle systems capable of supporting safety, comfort, and well being in real world settings.
+
+<img src='/images/blog/2019-09-03-cambridge-SEAIXI-talk.jpg' width="700" alt="Daniel Lopez-Martinez presenting on driving-induced affective state detection at the SEAIxI Workshop, ACII 2019, Department of Computer Science and Technology, University of Cambridge.">
