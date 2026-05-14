@@ -4,6 +4,8 @@ excerpt: "We investigated to use electrodermal activity (EDA), heart rate variab
 collection: portfolio
 category: mit
 order: 2
+redirect_from:
+  - /portfolio/injection_study/
 ---
 
 Link: [MIT Injection Study](https://www.media.mit.edu/projects/injection-study/overview/)
