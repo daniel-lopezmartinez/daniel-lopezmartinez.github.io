@@ -12,7 +12,7 @@ tags:
   - television
 ---
 
-In 2018, Spanish journalist [Iñaki Gabilondo](https://en.wikipedia.org/wiki/I%C3%B1aki_Gabilondo) visited MIT for an episode of *[Cuando ya no esté](https://es.wikipedia.org/wiki/Cuando_ya_no_est%C3%A9)*, a Spanish television documentary series about the future of science, technology, and society. I was interviewed alongside several Spanish colleagues at MIT, discussing our research.
+In 2018, Spanish journalist [Iñaki Gabilondo](https://en.wikipedia.org/wiki/I%C3%B1aki_Gabilondo) visited MIT for an episode of *[Cuando ya no esté](https://es.wikipedia.org/wiki/Cuando_ya_no_est%C3%A9._El_mundo_dentro_de_25_a%C3%B1os)*, a Spanish television documentary series about the future of science, technology, and society. I was interviewed alongside [Nicholas Negroponte](https://en.wikipedia.org/wiki/Nicholas_Negroponte) and several colleagues at MIT, discussing our research.
 
 <img src='/images/blog/2018-06-26-spanish-tv-interview.jpg' width="700" alt="Daniel Lopez-Martinez being interviewed by Spanish journalist Iñaki Gabilondo at MIT for the Movistar+ documentary series Cuando ya no esté, 2018.">
 
