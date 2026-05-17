@@ -15,7 +15,7 @@ tags:
   - olympiad
 ---
 
-In 2008, I was awarded a **Bronze medal** at the [Spanish Mathematics Olympiad](https://www.olimpiadamatematica.es/) (*Olimpiada Matemática Española*) and a **Silver medal** at the [Spanish Physics Olympiad](https://rsef.es/olimpiada-de-fisica) (*Olimpiada de Física Española*), regional level, both held in Logroño, Spain.
+In 2008, I was awarded a **Bronze medal** at the [Spanish Mathematics Olympiad](https://rsme.es/olimpiada-matematica-espanola/) (*Olimpiada Matemática Española*) and a **Silver medal** at the [Spanish Physics Olympiad](https://rsef.es/olimpiadas/) (*Olimpiada de Física Española*), regional level, both held in Logroño, Spain.
 
 <img src='/images/blog/2008-award-1.jpg' width="700" alt="Daniel Lopez-Martinez receiving an award at the Spanish Mathematics and Physics Olympiad in Logroño, Spain, 2008.">
 
