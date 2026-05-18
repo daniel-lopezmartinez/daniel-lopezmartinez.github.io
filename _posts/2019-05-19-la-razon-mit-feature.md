@@ -14,7 +14,7 @@ tags:
 
 In May 2019, the Spanish newspaper [La Razón](https://en.wikipedia.org/wiki/La_Raz%C3%B3n_(Madrid)) published a double-page feature in its *Innovadores* supplement profiling me together with other Spanish-speaking researchers at the [MIT Media Lab](https://www.media.mit.edu/). The article, written by journalist [Esther Paniagua](https://estherpaniagua.com/), was the cover story of the supplement and highlighted my work at the [Affective Computing group](https://www.media.mit.edu/groups/affective-computing/overview/) together with research across the Lab's other research groups.
 
-At that time, my work focused on developing AI methods to detect pain through facial expressions, physiological signals from wearables, and brain activity, as well as developing automated methods for opioid administration in clinical settings.
+At that time, my work focused on developing AI methods to detect pain through facial expressions, physiological signals from wearables, and brain activity, as well as developing automated methods for opioid administration in clinical settings via reinforcement learning.
 
 <img src='/images/blog/2019-05-19-larazon.jpg' width="700" alt="Double-page spread in La Razón's Innovadores supplement featuring Daniel Lopez-Martinez and other Spanish-speaking researchers at the MIT Media Lab, May 2019.">
 
