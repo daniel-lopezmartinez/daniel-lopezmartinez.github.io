@@ -8,6 +8,7 @@ tags:
   - healthcare
   - innovation
   - mit
+  - bcg
 ---
 
 In July 2016, I was invited to participate in a "Future of Healthcare" venture architecture workshop hosted by [BCG Digital Ventures](https://www.bcg.com/x/) at their innovation center in Manhattan Beach, California.
