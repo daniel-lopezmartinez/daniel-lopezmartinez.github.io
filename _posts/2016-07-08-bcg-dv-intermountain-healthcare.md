@@ -10,6 +10,6 @@ tags:
   - mit
 ---
 
-In July 2016, I was invited to participate in a "Future of Healthcare" venture architecture workshop hosted by BCG Digital Ventures at their innovation center in Manhattan Beach, California.
+In July 2016, I was invited to participate in a "Future of Healthcare" venture architecture workshop hosted by [BCG Digital Ventures](https://www.bcg.com/x/) at their innovation center in Manhattan Beach, California.
 
-The workshop brought together a highly multidisciplinary cohort spanning BCG Digital Ventures executives, strategic designers, and clinical leadership from Intermountain Health. Over the course of the sprint, our cross-functional teams were tasked with modeling macroeconomic shifts and designing robust, future-proof clinical business models.
+Led by [Gunnar Trommer](https://www.bcg.com/about/people/experts/gunnar-trommer), the workshop brought together a highly multidisciplinary cohort spanning BCG Digital Ventures executives, strategic designers, and clinical leadership from Intermountain Health, including CIO [Marc Probst](https://www.linkedin.com/in/marc-probst-028a58/) and Innovation Director [Todd Dunn](https://www.linkedin.com/in/dunntodd/). Over the course of the sprint, our cross-functional teams were tasked with modeling macroeconomic shifts and designing robust, future-proof clinical business models.
