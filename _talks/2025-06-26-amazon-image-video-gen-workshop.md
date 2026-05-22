@@ -2,10 +2,13 @@
 title: "AI-Enabled Virtual Care with Digital Avatar Assistants"
 collection: talks
 type: "Talk"
-permalink: /talks/2025-06-26-amazon-image-video-gen
+permalink: /talks/2025-06-26-amazon-image-video-gen-workshop
+redirect_from:
+  - /talks/2025-06-26-amazon-image-video-gen/
+  - /talks/2025-06-26-amazon-image-video-gen
 venue: "Amazon Image & Video Generation Workshop 2025"
 date: 2025-06-26
-last_modified_at: 2026-05-17
+last_modified_at: 2026-05-22
 location: "Seattle, WA, USA"
 image: /images/blog/2025-06-26-amazon-ai-digital-avatars-talk.jpg
 ---
