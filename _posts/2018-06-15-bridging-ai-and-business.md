@@ -2,7 +2,7 @@
 title: "From the Lab to the Market: Bridging Technology and Business at Harvard Business School and MIT Sloan"
 date: 2018-06-15
 permalink: /blog/2018/06/bridging-ai-and-business/
-description: "During my PhD in Medical Engineering and Medical Physics, I explored what it takes to move technology beyond the lab — studying venture scaling and private equity finance at Harvard Business School, and healthcare innovation and deep-tech commercialization at MIT Sloan."
+description: "During my PhD, I explored what it takes to move technology beyond the lab, studying venture scaling and private equity finance at Harvard Business School, and healthcare innovation and deep-tech commercialization at MIT Sloan."
 image: /images/blog/2017-harvard-business-school.jpg
 tags:
   - Harvard Business School
