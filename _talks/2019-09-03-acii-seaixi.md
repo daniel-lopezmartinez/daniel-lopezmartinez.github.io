@@ -20,3 +20,9 @@ Results showed that this personalized, multi task approach consistently outperfo
 The presentation at ACII 2019 emphasized the implications of this approach for emotion aware automotive interfaces, including systems that adapt tone of voice, provide timely assistance, or mitigate stress and fatigue during everyday driving. By improving robustness and interpretability, the work contributed to the development of socially and emotionally intelligent in vehicle systems capable of supporting safety, comfort, and well being in real world settings.
 
 <img src='/images/blog/2019-09-03-cambridge-SEAIXI-talk.jpg' width="700" alt="Daniel Lopez-Martinez presenting on driving-induced affective state detection at the SEAIxI Workshop, ACII 2019, Department of Computer Science and Technology, University of Cambridge.">
+
+### Interview at the SEAIxI Workshop
+
+The Neurodata Lab interviewed me at the workshop and shared a video on Twitter:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We asked Daniel Lopez-Martinez, a Researcher from Harvard MIT Division of <a href="https://x.com/hashtag/Health?src=hash&amp;ref_src=twsrc%5Etfw">#Health</a> <a href="https://x.com/hashtag/Sciences?src=hash&amp;ref_src=twsrc%5Etfw">#Sciences</a> and and <a href="https://x.com/hashtag/Technology?src=hash&amp;ref_src=twsrc%5Etfw">#Technology</a> and the <a href="https://x.com/medialab?ref_src=twsrc%5Etfw">@medialab</a>, what is his opinion on the aim of <a href="https://x.com/hashtag/SEAIXI?src=hash&amp;ref_src=twsrc%5Etfw">#SEAIXI</a> <a href="https://t.co/De2zzKuWHA">pic.twitter.com/De2zzKuWHA</a></p>&mdash; Neurodata Lab (@NeurodataLab) <a href="https://x.com/NeurodataLab/status/1184118394020343810?ref_src=twsrc%5Etfw">October 15, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
