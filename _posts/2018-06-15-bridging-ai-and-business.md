@@ -21,7 +21,7 @@ The first course was [Private Equity Finance](https://www.hbs.edu/coursecatalog/
 
 The second course was [Scaling Technology Ventures](https://www.hbs.edu/coursecatalog/1788.html) with [Jeffrey Rayport](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6536), built around the problem a company faces once it has found product–market fit and has to ride its own growth.
 
-<img src='/images/blog/2017-harvard-business-school.jpg' width="700" alt="Daniel Lopez-Martinez, an AI researcher from MIT, presenting at Harvard Business School his work on personalized machine learning algorithms. He is shwon in a suit and tie, drawing an LSTM recurrent neural network architecture in chalk on the board of a Harvard Business School classroom.">
+<img src='/images/blog/2017-harvard-business-school.jpg' width="700" alt="Daniel Lopez-Martinez, an AI researcher from MIT and Harvard University, presenting at Harvard Business School his work on personalized machine learning algorithms. He is shwon in a suit and tie, drawing an LSTM recurrent neural network architecture in chalk on the board of a Harvard Business School classroom.">
 
 ### Commercializing Deep Tech at MIT Sloan
 
