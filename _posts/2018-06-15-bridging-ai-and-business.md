@@ -13,7 +13,7 @@ tags:
 
 While completing my PhD in Medical Engineering and Medical Physics through the Harvard–MIT Program in Health Sciences and Technology, I had the opportunity to cross-register at Harvard Business School and the MIT Sloan School of Management.
 
-Building something new in the lab is only half the work. For research to be impactful, it often needs to become a product, a company, or a platform with real-word reach. But while in the lab, the challenge is to prove that something can work; in the market, it expands — the technology has to solve an urgent problem, attract capital, fit into an operating model, clear regulation, and scale through an organization. Almost none of that is taught in an engineering PhD, so I went looking for it.
+Building something new in the lab is only half the work. For research to be impactful, it often needs to become a product, a company, or a platform with real-world reach. But while in the lab, the challenge is to prove that something can work; in the market, it expands — the technology has to solve an urgent problem, attract capital, fit into an operating model, clear regulation, and scale through an organization. Almost none of that is taught in an engineering PhD, so I went looking for it.
 
 ### Venture Scaling and Value Creation at HBS
 
@@ -21,7 +21,7 @@ The first course was [Private Equity Finance](https://www.hbs.edu/coursecatalog/
 
 The second course was [Scaling Technology Ventures](https://www.hbs.edu/coursecatalog/1788.html) with [Jeffrey Rayport](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6536), built around the problem a company faces once it has found product–market fit and has to ride its own growth.
 
-<img src='/images/blog/2017-harvard-business-school.jpg' width="700" alt="Daniel Lopez-Martinez, an AI researcher from MIT and Harvard University, presenting at Harvard Business School his work on personalized machine learning algorithms. He is shwon in a suit and tie, drawing an LSTM recurrent neural network architecture in chalk on the board of a Harvard Business School classroom.">
+<img src='/images/blog/2017-harvard-business-school.jpg' width="700" alt="Daniel Lopez-Martinez, an AI researcher from MIT and Harvard University, presenting at Harvard Business School his work on personalized machine learning algorithms. He is shown in a suit and tie, drawing an LSTM recurrent neural network architecture in chalk on the board of a Harvard Business School classroom.">
 
 ### Commercializing Deep Tech at MIT Sloan
 
