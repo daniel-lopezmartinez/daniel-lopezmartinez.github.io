@@ -30,5 +30,5 @@ At MIT Sloan, I pursued the [Healthcare Certificate](https://mitsloan.mit.edu/ce
 
 One of the most memorable experiences was [Innovation Teams (i-Teams)](https://iteams.mit.edu/), taught by [Luis Perez-Breva](https://lpbreva.mit.edu/). The course was built around a practical challenge: taking a real technology from an academic lab and developing a path toward commercialization.
 
-My team worked on a technology based on gold nanoparticles. We assessed potential applications, market needs, stakeholders, competitive dynamics, and commercialization pathways, ultimately developing a plan for how the technology could move beyond the lab.
+My team worked on a technology based on gold nanoparticles developed by [Jeffrey Grossman](https://en.wikipedia.org/wiki/Jeffrey_Grossman). We assessed potential applications, market needs, stakeholders, competitive dynamics, and commercialization pathways, ultimately developing a plan for how the technology could move beyond the lab.
 
