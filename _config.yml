@@ -65,7 +65,7 @@ author:
   lastfm           : # Username
   linkedin         : "daniel-lopezmartinez"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://daniel-lopezmartinez.medium.com/"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -171,6 +171,7 @@ social:
     - "https://x.com/dlmocdm"
     - "https://soundcloud.com/dlopezm"
     - "https://vimeo.com/daniellopezmartinez"
+    - "https://daniel-lopezmartinez.medium.com/"
 
 
 # Analytics
