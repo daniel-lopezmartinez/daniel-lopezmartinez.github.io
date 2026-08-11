@@ -20,3 +20,6 @@ The talk covered the design and architecture of real-time, multimodal video avat
 This work is described in more detail in the [Video Avatars & Multimodal Experiences](/portfolio/amazon-video-avatars/) portfolio entry.
 
 <img src='/images/blog/2025-06-26-amazon-ai-digital-avatars-talk.jpg' width="700" height="400" alt="Daniel Lopez-Martinez presenting his talk on AI-enabled virtual care with LLM-powered digital avatar assistants at the Amazon AWS Image and Video Generation Workshop 2025 in Seattle. The title slide behind him shows his name and the Amazon logo.">
+
+
+<img src='/images/blog/2025-06-05-avatar.jpeg' width="700" height="400" alt="Daniel Lopez-Martinez talking to an AI-powered avatar.">
