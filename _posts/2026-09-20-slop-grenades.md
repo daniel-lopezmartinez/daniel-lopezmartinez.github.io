@@ -20,4 +20,4 @@ I've now seen this multiple times: polished slides and documents that lack subst
 
 The fix isn't to ban AI. It's a norm shift: whoever sends the work owns the work. If AI helped you write it, you're still accountable for every claim in it.
 
-Before you hit send, ask: have I made this easier for the next person, or have I handed them the thinking I skipped?
+Also, before you hit send, ask: have I made this easier for the next person, or have I handed them the thinking I skipped?
