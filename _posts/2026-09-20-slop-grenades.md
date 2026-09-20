@@ -14,7 +14,7 @@ AI use has obvious advantages at work. It makes it easier to write code, draft d
 
 In an [interview](https://www.youtube.com/watch?v=G9P9D9hptq8) on "The Knowledge Project," Lütke described the problem: AI makes it trivially easy to generate work and pass it along without taking responsibility for whether it's useful or correct. "We call those 'slop grenades' that people toss at each other," he said.
 
-The insight here is that AI doesn't eliminate the hard parts of knowledge work. The time saved producing something often becomes time someone else spends making sense of it. When someone sends you an AI-generated document they haven't authored, thought about, or vetted, the verification work and strategic thinking don't disappear. They move downstream, to you.
+The insight here is that AI doesn't eliminate the hard parts of knowledge work. The time saved producing something often becomes time someone else spends making sense of it. When someone sends you an AI-generated document they haven't manually authored, thought about, or vetted, the verification work and strategic thinking don't disappear. They move downstream, to you.
 
 I've now seen this multiple times: polished slides and documents that lack substance, offer little insight, and take real time to read and discuss without moving the work forward. An artifact nobody has thought about carefully isn't a head start — it's a liability.
 
